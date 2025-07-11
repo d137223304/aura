@@ -1,0 +1,29 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8 lg:py-16">
+
+    <div class="text-center mb-12">
+        <h1 class="text-5xl font-serif font-bold tracking-tight text-brand-dark">{{ .Title | humanize | title }}</h1>
+        <p class="text-xl text-gray-500 mt-3 font-sans">Discover our curated collection for this brand.</p>
+    </div>
+
+    {{/* This code implements the custom 36-product limit you requested. */}}
+    {{ $allProducts := where .Site.RegularPages "Section" .Section }}
+    {{ $limitedProducts := $allProducts | first 60 }}
+    {{ $paginator := .Paginate $limitedProducts 12 }}
+
+
+    {{/* Grid for the products */}}
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-7xl mx-auto">
+        {{ range $paginator.Pages }}
+            {{/* We use the product card partial we already created! */}}
+            {{ partial "product-card.html" . }}
+        {{ end }}
+    </div>
+
+    {{/* Render the pagination links */}}
+    <div class="mt-16">
+        {{ partial "pagination.html" . }}
+    </div>
+
+</div>
+{{ end }}

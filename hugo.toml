@@ -1,0 +1,42 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Vintique"
+
+# Main Menu for the header
+[[menu.main]]
+  name = "Brands"
+  url = "/brands/"
+  weight = 5
+[[menu.main]]
+  name = "About Us"
+  url = "/about-us/"
+  weight = 10
+[[menu.main]]
+  name = "Authenticity Guarantee"
+  url = "/guarantee/"
+  weight = 20
+[[menu.main]]
+  name = "Shipping"
+  url = "/shipping-policy/"
+  weight = 30
+[[menu.main]]
+  name = "Q&A"
+  url = "/qa/"
+  weight = 40
+
+# Footer Menu for policy links
+[[menu.footer]]
+  name = "Refund Policy"
+  url = "/refund-policy/"
+  weight = 10
+[[menu.footer]]
+  name = "Terms of Service"
+  url = "/terms-of-service/"
+  weight = 20
+[[menu.footer]]
+  name = "Track Your Order"
+  url = "/track-your-order/"
+  weight = 30
+
+  [taxonomies]
+  vendor = "brands"

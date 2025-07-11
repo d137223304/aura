@@ -1,0 +1,56 @@
+{{ define "main" }}
+    <div class="relative h-[60vh] bg-cover bg-center" style="background-image: url('https://images.pexels.com/photos/1537671/pexels-photo-1537671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');">
+        <div class="absolute inset-0 bg-black/50 flex items-center justify-center">
+            <div class="text-center text-white p-4">
+                <h1 class="font-serif text-5xl md:text-7xl font-bold">Timeless Luxury, Authentically Yours</h1>
+                <p class="mt-4 text-xl">Discover our curated collection of pre-owned designer handbags.</p>
+                <a href="/vendors/" class="mt-8 inline-block bg-brand-gold text-white font-bold tracking-wider py-3 px-8 rounded-md hover:bg-opacity-80 transition-colors">Shop All Brands</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mx-auto px-6 py-16">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 text-center max-w-5xl mx-auto">
+            <div>
+                <h3 class="font-serif text-2xl font-semibold">Authenticity Guaranteed</h3>
+                <p class="mt-2 text-gray-600">Every item is verified by our in-house team of luxury experts.</p>
+            </div>
+            <div>
+                <h3 class="font-serif text-2xl font-semibold">Worldwide Shipping</h3>
+                <p class="mt-2 text-gray-600">Fast and secure delivery to your doorstep, wherever you are.</p>
+            </div>
+            <div>
+                <h3 class="font-serif text-2xl font-semibold">Sustainable Luxury</h3>
+                <p class="mt-2 text-gray-600">Embrace conscious consumption by giving timeless pieces a new life.</p>
+            </div>
+        </div>
+
+        <div class="mt-20">
+            <h2 class="text-4xl font-serif font-bold text-center mb-12">New Arrivals</h2>
+            {{ $latest := where .Site.RegularPages "Type" "products" | first 8 }}
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
+                {{ range $latest }}
+                    {{ partial "product-card.html" . }}
+                {{ end }}
+            </div>
+        </div>
+
+        <div class="mt-20 bg-brand-gray p-12 rounded-lg">
+            <h2 class="text-4xl font-serif font-bold text-center mb-12">What Our Customers Say</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <div class="bg-white p-6 rounded shadow">
+                    <p class="text-gray-600">"The bag was in even better condition than described. The entire process was seamless. Will definitely shop here again!"</p>
+                    <p class="mt-4 font-bold text-right">- Jessica L.</p>
+                </div>
+                <div class="bg-white p-6 rounded shadow">
+                    <p class="text-gray-600">"I found my dream bag here after searching for months. The authenticity guarantee gave me total peace of mind."</p>
+                    <p class="mt-4 font-bold text-right">- Samantha P.</p>
+                </div>
+                <div class="bg-white p-6 rounded shadow">
+                    <p class="text-gray-600">"Incredible selection and fair prices. My new favorite place for vintage luxury."</p>
+                    <p class="mt-4 font-bold text-right">- Emily R.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+{{ end }}

@@ -1,0 +1,13 @@
+<a href="{{ .Permalink }}" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+        {{ with .Params.images }}
+            {{ $imgURL := index . 0 }}
+            {{ $imgParts := split $imgURL "?" }}
+            <img src="{{ index $imgParts 0 }}?{{ index $imgParts 1 }}&width=400&format=webp" alt="{{ $.Title }}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+        {{ end }}
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">{{ .Title }}</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">${{ .Params.price }}</p>
+    </div>
+</a>

@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8 lg:py-16">
+
+    <div class="text-center mb-12">
+        <h1 class="text-5xl font-serif font-bold tracking-tight">{{ .Title | humanize | title }}</h1>
+        <p class="text-xl text-gray-500 mt-3 font-sans">An exclusive collection from the world's most iconic fashion houses.</p>
+    </div>
+    
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-5xl mx-auto">
+        {{ range .Data.Terms.ByTitle }}
+        <a href="{{ .Page.Permalink }}" class="block p-8 bg-white border border-gray-200 rounded-md text-center hover:shadow-lg hover:-translate-y-1 transition-all duration-300">
+            <span class="font-serif text-2xl text-brand-dark">{{ .Page.Title | humanize | title }}</span>
+        </a>
+        {{ end }}
+    </div>
+
+</div>
+{{ end }}
