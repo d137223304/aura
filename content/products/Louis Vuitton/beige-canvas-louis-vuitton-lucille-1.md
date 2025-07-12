@@ -6,7 +6,7 @@ price: 550.0
 original_price: 770.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img1_d4a0e72a-0c70-4d4a-b919-3ec941a7f172.jpg?v=1748950564
-buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gTHVjaWxsZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxX2Q0YTBlNzJhLTBjNzAtNGQ0YS1iOTE5LTNlYzk0MWE3ZjE3Mi5qcGc/dj0xNzQ4OTUwNTY0
+buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gTHVjaWxsZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxX2Q0YTBlNzJhLTBjNzAtNGQ0YS1iOTE5LTNlYzk0MWE3ZjE3Mi5qcGc/dj0xNzQ4OTUwNTY0
 color: Beige
 material: Canvas
 measurements: 'w: 11, l: 30, d: 31'

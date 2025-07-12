@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fur_Prada_Shou_img8.jpg?v=1749081196
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fur_Prada_Shou_img9.jpg?v=1749081196
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fur_Prada_Shou_img10.jpg?v=1749081196
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgRnVyIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRnVyX1ByYWRhX1Nob3VfaW1nMS5qcGc/dj0xNzQ5MDgxMTk2
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgRnVyIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRnVyX1ByYWRhX1Nob3VfaW1nMS5qcGc/dj0xNzQ5MDgxMTk2
 color: Beige
 material: Fur
 measurements: 'Length: 15.00 x Width: 28.00 x Depth: 7.00'

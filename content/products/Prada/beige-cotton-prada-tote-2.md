@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_T_img8_138b52e0-8624-4565-a118-af4260212d59.jpg?v=1749090462
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_T_img9_0369452d-177d-4a70-881e-7e966cbcb7d3.jpg?v=1749090462
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_T_img10_63f0cf5b-b346-4edc-870f-6d5eac480bdd.jpg?v=1749090462
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ290dG9uIFByYWRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NvdHRvbl9QcmFkYV9UX2ltZzFfYWZkMzJjODEtMGUzMi00MDcwLWFkMTItOGM5MTA4MzdlMTUxLmpwZz92PTE3NDkwOTA0NjI=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ290dG9uIFByYWRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NvdHRvbl9QcmFkYV9UX2ltZzFfYWZkMzJjODEtMGUzMi00MDcwLWFkMTItOGM5MTA4MzdlMTUxLmpwZz92PTE3NDkwOTA0NjI=
 color: Beige
 material: Cotton
 item_number: 6642d17c0313c87ff8af00d5

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Animal_Print_Canvas_img8.jpg?v=1749019146
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Animal_Print_Canvas_img9.jpg?v=1749019146
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Animal_Print_Canvas_img10.jpg?v=1749019146
-buynow_link: /checkout/#ODAwLjAmQW5pbWFsIFByaW50IENhbnZhcyBEaW9yIExhZHkgRGlvciZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9BbmltYWxfUHJpbnRfQ2FudmFzX2ltZzEuanBnP3Y9MTc0OTAxOTE0Ng==
+buynow_link: /checkout/ODAwLjAmQW5pbWFsIFByaW50IENhbnZhcyBEaW9yIExhZHkgRGlvciZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9BbmltYWxfUHJpbnRfQ2FudmFzX2ltZzEuanBnP3Y9MTc0OTAxOTE0Ng==
 color: Animal print
 material: Canvas
 measurements: 'Length: 235 mm. Width: 120 mm. Height: 190 mm'

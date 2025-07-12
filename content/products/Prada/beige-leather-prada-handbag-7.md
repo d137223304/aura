@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img1_d60a6781-2794-47f5-89ad-3a68a401e106.jpg?v=1749084505
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9MZWF0aGVyX1ByYWRhX2ltZzFfZDYwYTY3ODEtMjc5NC00N2Y1LTg5YWQtM2E2OGE0MDFlMTA2LmpwZz92PTE3NDkwODQ1MDU=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9MZWF0aGVyX1ByYWRhX2ltZzFfZDYwYTY3ODEtMjc5NC00N2Y1LTg5YWQtM2E2OGE0MDFlMTA2LmpwZz92PTE3NDkwODQ1MDU=
 color: Beige
 material: Leather
 measurements: 'w: 12, l: 31, d: 22'

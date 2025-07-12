@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img4_66030f6f-cf22-4ff6-b41d-5edc53323864.jpg?v=1749024186
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img5_23f587a9-5532-4e5b-84c7-60ca9fd0d2e8.jpg?v=1749024186
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img6_fe5337bc-29f1-4609-b008-176cda64602d.jpg?v=1749024186
-buynow_link: /checkout/#NjUwLjAmQmxhY2sgRmFicmljIEJvdHRlZ2EgVmVuZXRhIENyb3NzYm9keSBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JsYWNrX0ZhYnJpY19Cb3R0ZWdhX2ltZzFfMmI4NzQzNmQtZWU3Zi00Y2ZiLWFhNTAtNmY2YmU4NTlmYzkxLmpwZz92PTE3NDkwMjQxODY=
+buynow_link: /checkout/NjUwLjAmQmxhY2sgRmFicmljIEJvdHRlZ2EgVmVuZXRhIENyb3NzYm9keSBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JsYWNrX0ZhYnJpY19Cb3R0ZWdhX2ltZzFfMmI4NzQzNmQtZWU3Zi00Y2ZiLWFhNTAtNmY2YmU4NTlmYzkxLmpwZz92PTE3NDkwMjQxODY=
 color: Black
 material: Fabric
 measurements: 13cm x 23.5cm x 5cm

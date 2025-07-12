@@ -10,7 +10,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Fabric_Bottega_img3.jpg?v=1749019583
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Fabric_Bottega_img4.jpg?v=1749019583
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Fabric_Bottega_img5.jpg?v=1749019583
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgRmFicmljIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmVpZ2VfRmFicmljX0JvdHRlZ2FfaW1nMS5qcGc/dj0xNzQ5MDE5NTgz
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgRmFicmljIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmVpZ2VfRmFicmljX0JvdHRlZ2FfaW1nMS5qcGc/dj0xNzQ5MDE5NTgz
 color: Beige
 material: Fabric
 measurements: 25cm x 34cm x 10cm

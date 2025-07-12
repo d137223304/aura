@@ -14,7 +14,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Leather_Balenci_img7_9c3437a4-e7c8-47d7-abe9-1b60554febef.jpg?v=1749010577
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Leather_Balenci_img8_4e37d416-1605-43d7-b9d2-a4d5ff811909.jpg?v=1749010577
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Leather_Balenci_img9_f19840f6-70fb-419b-8fb5-5d247f6d0bf8.jpg?v=1749010577
-buynow_link: /checkout/#NjUwLjAmR3JleSBMZWF0aGVyIEJhbGVuY2lhZ2EgQ2l0eSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0xlYXRoZXJfQmFsZW5jaV9pbWcxX2FlYmFkMzJlLTgyNTEtNDhmYS04MTJiLWZjMTcxMjE4MDc3Ny5qcGc/dj0xNzQ5MDEwNTc3
+buynow_link: /checkout/NjUwLjAmR3JleSBMZWF0aGVyIEJhbGVuY2lhZ2EgQ2l0eSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0xlYXRoZXJfQmFsZW5jaV9pbWcxX2FlYmFkMzJlLTgyNTEtNDhmYS04MTJiLWZjMTcxMjE4MDc3Ny5qcGc/dj0xNzQ5MDEwNTc3
 color: Grey
 material: Leather
 measurements: 'w: 14, l: 37.5, d: 24'

@@ -10,7 +10,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img3_48f9d1d3-8213-43c8-9887-b14d3a072c8e.jpg?v=1749009715
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img4_526f4908-81cb-4cf3-baea-2f2251018c58.jpg?v=1749009715
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img5_ebfaa61e-0cd6-461d-95b9-3eed1ef951e5.jpg?v=1749009715
-buynow_link: /checkout/#NjUwLjAmR3JlZW4gRmFicmljIEJhbGVuY2lhZ2EgU2hvdWxkZXIgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX0ZhYnJpY19CYWxlbmNpX2ltZzFfYzlkMzZmNmQtMzAyNi00YzEwLWI2MDAtYWJmNTEyMTcyNjQ1LmpwZz92PTE3NDkwMDk3MTU=
+buynow_link: /checkout/NjUwLjAmR3JlZW4gRmFicmljIEJhbGVuY2lhZ2EgU2hvdWxkZXIgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX0ZhYnJpY19CYWxlbmNpX2ltZzFfYzlkMzZmNmQtMzAyNi00YzEwLWI2MDAtYWJmNTEyMTcyNjQ1LmpwZz92PTE3NDkwMDk3MTU=
 color: Green
 material: Fabric
 measurements: 12cm x 25cm x 6cm

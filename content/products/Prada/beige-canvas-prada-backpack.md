@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_B_img8.jpg?v=1749082738
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_B_img9.jpg?v=1749082738
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_B_img10.jpg?v=1749082738
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9DYW52YXNfUHJhZGFfQl9pbWcxLmpwZz92PTE3NDkwODI3Mzg=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9DYW52YXNfUHJhZGFfQl9pbWcxLmpwZz92PTE3NDkwODI3Mzg=
 color: Beige
 material: Canvas
 measurements: 'w: 11, l: 26, d: 27'

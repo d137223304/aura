@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_T_img8.jpg?v=1749082069
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_T_img9.jpg?v=1749082069
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_T_img10.jpg?v=1749082069
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9UX2ltZzEuanBnP3Y9MTc0OTA4MjA2OQ==
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9UX2ltZzEuanBnP3Y9MTc0OTA4MjA2OQ==
 color: Beige, Black
 material: Canvas
 measurements: 30cm x 39cm x 10cm

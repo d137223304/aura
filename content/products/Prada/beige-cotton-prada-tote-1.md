@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_T_img8_7b0321a3-6d25-4042-ac6a-17e5834b10fa.jpg?v=1749089756
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_T_img9_46eba202-07f8-4d2f-852e-b31c3d98c8a1.jpg?v=1749089756
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_T_img10_0daa0d0b-4749-4638-83c6-7f1a9aa999c0.jpg?v=1749089756
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ290dG9uIFByYWRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NvdHRvbl9QcmFkYV9UX2ltZzFfZThmMzJiYzItNmFkYS00ZWRjLThlNDktZTgzNmZiNDQ2NWEzLmpwZz92PTE3NDkwODk3NTY=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ290dG9uIFByYWRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NvdHRvbl9QcmFkYV9UX2ltZzFfZThmMzJiYzItNmFkYS00ZWRjLThlNDktZTgzNmZiNDQ2NWEzLmpwZz92PTE3NDkwODk3NTY=
 color: Beige
 material: Cotton
 measurements: W29cm x H27cm

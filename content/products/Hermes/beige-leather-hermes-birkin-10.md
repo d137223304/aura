@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Leather_Hermes_img8_5739dc5f-e19b-4cf8-9ec8-f01b284fa54b.jpg?v=1749027641
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Leather_Hermes_img9_ff633e58-7b91-4714-a7e4-4151a6a2b95c.jpg?v=1749027641
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Leather_Hermes_img10_bee85de9-2ca3-400e-9538-f64dc7720aa3.jpg?v=1749027641
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgTGVhdGhlciBIZXJtZXMgQmlya2luJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfTGVhdGhlcl9IZXJtZXNfaW1nMV80ZmZlNmU4MS03ZTQ1LTQ1NmYtOTBhOC1hZDJiY2NlYTQ3MDQuanBnP3Y9MTc0OTAyNzY0MQ==
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgTGVhdGhlciBIZXJtZXMgQmlya2luJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfTGVhdGhlcl9IZXJtZXNfaW1nMV80ZmZlNmU4MS03ZTQ1LTQ1NmYtOTBhOC1hZDJiY2NlYTQ3MDQuanBnP3Y9MTc0OTAyNzY0MQ==
 color: Beige
 material: Leather
 measurements: 24cm x 30cm x 15.5cm

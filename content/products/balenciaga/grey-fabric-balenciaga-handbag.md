@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Fabric_Balencia_img8_311ef6e8-7695-4574-9bb9-ab400aae2f1d.jpg?v=1749012113
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Fabric_Balencia_img9_c228f5f2-01d9-49d0-875e-1f83ae17c2a1.jpg?v=1749012113
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Fabric_Balencia_img10_eb7458cb-331e-4c1b-95fe-473602f063cb.jpg?v=1749012113
-buynow_link: /checkout/#NjUwLjAmR3JleSBGYWJyaWMgQmFsZW5jaWFnYSBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZXlfRmFicmljX0JhbGVuY2lhX2ltZzFfZWNjZWEwNjQtYmFlMi00MTc2LThmZjUtZTFkZjhlMWViN2RlLmpwZz92PTE3NDkwMTIxMTM=
+buynow_link: /checkout/NjUwLjAmR3JleSBGYWJyaWMgQmFsZW5jaWFnYSBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZXlfRmFicmljX0JhbGVuY2lhX2ltZzFfZWNjZWEwNjQtYmFlMi00MTc2LThmZjUtZTFkZjhlMWViN2RlLmpwZz92PTE3NDkwMTIxMTM=
 color: Grey
 material: Fabric
 measurements: H 14cm x W 18cm x D 8cm

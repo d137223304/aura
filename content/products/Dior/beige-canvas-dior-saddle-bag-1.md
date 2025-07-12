@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sa_img8.jpg?v=1749014851
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sa_img9.jpg?v=1749014851
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sa_img10.jpg?v=1749014851
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgU2FkZGxlIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9TYV9pbWcxXzliZWZmOWUyLTFiNDUtNDMxMi1hNTUxLTNiYWI1YTEyZTU0Ni5qcGc/dj0xNzQ5MDE0ODUx
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgU2FkZGxlIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9TYV9pbWcxXzliZWZmOWUyLTFiNDUtNDMxMi1hNTUxLTNiYWI1YTEyZTU0Ni5qcGc/dj0xNzQ5MDE0ODUx
 color: Beige
 material: Canvas
 measurements: 'Length: 17.00 x Width: 24.00 x Depth: 3.00'

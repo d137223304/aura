@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img1_7c439e87-bafc-4c08-9226-27ed6e89f163.jpg?v=1749011963
-buynow_link: /checkout/#NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIFNob3BwZXImaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JhbGVuY2lhZ2FfR3JlZW5fTGVhdGhlcl9CYWxlbmNfaW1nMV83YzQzOWU4Ny1iYWZjLTRjMDgtOTIyNi0yN2VkNmU4OWYxNjMuanBnP3Y9MTc0OTAxMTk2Mw==
+buynow_link: /checkout/NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIFNob3BwZXImaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JhbGVuY2lhZ2FfR3JlZW5fTGVhdGhlcl9CYWxlbmNfaW1nMV83YzQzOWU4Ny1iYWZjLTRjMDgtOTIyNi0yN2VkNmU4OWYxNjMuanBnP3Y9MTc0OTAxMTk2Mw==
 color: Green
 material: Leather
 measurements: 'Depth : 14 Height : 29 Length : 28'

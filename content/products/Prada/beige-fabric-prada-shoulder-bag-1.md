@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img8_a4fe0108-bf75-4e37-9f9a-fb4975f65542.jpg?v=1749087505
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img9_4e080062-e821-42a2-80dc-74bba3ceef11.jpg?v=1749087505
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img10_6a568299-c742-4453-aef9-b790ee2b7233.jpg?v=1749087505
-buynow_link: /checkout/#NDUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX1NfaW1nMV9jZDQwNDk2OC03YmU3LTRmYTEtYTkzYi1iMzQ5MzRjYTMxODIuanBnP3Y9MTc0OTA4NzUwNQ==
+buynow_link: /checkout/NDUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX1NfaW1nMV9jZDQwNDk2OC03YmU3LTRmYTEtYTkzYi1iMzQ5MzRjYTMxODIuanBnP3Y9MTc0OTA4NzUwNQ==
 color: Beige
 material: Fabric
 measurements: W 20cm x H 15cm x D 14cm

@@ -15,6 +15,7 @@ layout: "single" # Assuming a default single page layout
   <div class="bg-brand-gray p-8 rounded-lg my-10 shadow">
     <h2 class="text-3xl font-serif font-semibold text-brand-dark !mt-0 !mb-6 text-center">Our Rigorous Authentication Process</h2>
     <p class="mb-6 text-center">Before any item is listed on our website, it undergoes a meticulous and comprehensive multi-point inspection by our team of highly trained, in-house authentication experts. Our specialists have years of experience and are deeply familiar with the unique characteristics and craftsmanship details of each luxury brand we carry.</p>
+
     <h3 class="text-xl font-semibold text-brand-dark mb-3">Key Aspects of Our Verification:</h3>
     <ul class="list-disc pl-6 space-y-3 mb-6">
       <li><strong>Materials & Craftsmanship:</strong> We scrutinize the quality of leather, canvas, exotic skins, stitching, seams, and overall construction, comparing them against brand-specific standards.</li>

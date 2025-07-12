@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img8_03fe2621-0413-4749-aff2-a8ebac3098be.jpg?v=1749081182
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img9_5262ed67-1bf7-41a4-b504-081ab33fc98a.jpg?v=1749081182
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img10_2af705ec-7924-4556-bada-4c0db57037c3.jpg?v=1749081183
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBHYWxsZXJpYSBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0xlYXRoZXJfUHJhZGFfaW1nMV81MzY4NWMzYy0xNTZmLTRhYmItYThjZS0zOGQ5YjcxNWIyZTAuanBnP3Y9MTc0OTA4MTE4Mg==
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBHYWxsZXJpYSBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0xlYXRoZXJfUHJhZGFfaW1nMV81MzY4NWMzYy0xNTZmLTRhYmItYThjZS0zOGQ5YjcxNWIyZTAuanBnP3Y9MTc0OTA4MTE4Mg==
 color: Beige
 material: Leather
 measurements: 'w: 12, l: 28, d: 18'

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_B_img8_30e18b54-047c-478a-a054-561f23c78864.jpg?v=1749088815
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_B_img9_6e412b58-c57e-49ff-ab79-8c6581833951.jpg?v=1749088815
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_B_img10_36e603a7-10a6-4afb-a0cd-8a218f26e564.jpg?v=1749088815
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEJvc3RvbiBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9CX2ltZzFfZDkyNzM2ZDUtZWRlNC00NWE4LWIwMGMtNGVjMjJlNWYwOGY3LmpwZz92PTE3NDkwODg4MTU=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEJvc3RvbiBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9CX2ltZzFfZDkyNzM2ZDUtZWRlNC00NWE4LWIwMGMtNGVjMjJlNWYwOGY3LmpwZz92PTE3NDkwODg4MTU=
 color: Beige
 material: Canvas
 item_number: 6718ea07e86dbe2f37670679

@@ -9,13 +9,18 @@ layout: "single"
     <h1 class="text-5xl font-serif font-bold text-brand-dark !mb-4">Get in Touch</h1>
     <p class="text-xl text-gray-600 font-serif">We'd love to hear from you. Whether you have a question about an item, an order, or our policies, our team is ready to help.</p>
   </div>
+
   <div class="grid md:grid-cols-2 gap-8 text-center">
+
+    <!-- Email Contact Card -->
     <div class="bg-brand-gray p-8 rounded-lg shadow-md">
       <h2 class="text-3xl font-serif font-semibold text-brand-dark !mt-0 !mb-4">Email Us</h2>
       <p class="mb-4">For questions about products, orders, returns, or any other inquiries, email is the best way to reach us.</p>
       <a href="mailto:[YOUR_EMAIL_HERE]" class="text-xl font-semibold text-brand-gold break-words hover:underline">[YOUR_EMAIL_HERE]</a>
       <p class="mt-4 text-sm text-gray-600">We typically respond within 24 business hours.</p>
     </div>
+
+    <!-- Phone Contact Card -->
     <div class="bg-brand-gray p-8 rounded-lg shadow-md">
       <h2 class="text-3xl font-serif font-semibold text-brand-dark !mt-0 !mb-4">Call Us</h2>
       <p class="mb-4">If you need to speak with someone directly, you can reach our customer service team by phone.</p>

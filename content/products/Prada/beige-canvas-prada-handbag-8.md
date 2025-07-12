@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img4_fc1249d7-20ae-4bc2-83ae-074592202f8b.jpg?v=1749086512
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img5_defcc8c4-620c-408e-856d-e4d87ee75890.jpg?v=1749086512
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img6_3195077f-cbee-4ad0-982a-dec308615cec.jpg?v=1749086512
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9IX2ltZzFfZjQzZjc1MjUtZDdiOC00NGNkLTk5YzktMmFjNzk0ZDc5NjdlLmpwZz92PTE3NDkwODY1MTI=
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9IX2ltZzFfZjQzZjc1MjUtZDdiOC00NGNkLTk5YzktMmFjNzk0ZDc5NjdlLmpwZz92PTE3NDkwODY1MTI=
 color: Beige
 material: Canvas
 measurements: 'Handle Drop: 250 mm. Length: 240 mm. Width: 80 mm. Height: 170 mm'

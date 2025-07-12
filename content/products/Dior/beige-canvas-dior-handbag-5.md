@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img8_80a6ae54-8974-4886-b4ab-74b4a0323c42.jpg?v=1749018334
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img9_ec7b943f-5570-44b2-aa39-6d36fc394c47.jpg?v=1749018334
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img10_4d1b6aee-a5c5-44fa-b58f-9570c1993d51.jpg?v=1749018334
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxXzYxYWI3YmE2LTk5ZDUtNGZiNS05OWE0LTc4OTkyYTEzNTY1NC5qcGc/dj0xNzQ5MDE4MzM0
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxXzYxYWI3YmE2LTk5ZDUtNGZiNS05OWE0LTc4OTkyYTEzNTY1NC5qcGc/dj0xNzQ5MDE4MzM0
 color: Beige
 material: Canvas
 item_number: 6672885af713be24ebe0c372

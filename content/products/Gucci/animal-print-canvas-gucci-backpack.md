@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Animal_Print_Canvas_img4.jpg?v=1748988551
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Animal_Print_Canvas_img5.jpg?v=1748988551
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Animal_Print_Canvas_img6.jpg?v=1748988551
-buynow_link: /checkout/#NjUwLjAmQW5pbWFsIFByaW50IENhbnZhcyBHdWNjaSBCYWNrcGFjayZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZ3VjY2lfQW5pbWFsX1ByaW50X0NhbnZhc19pbWcxLmpwZz92PTE3NDg5ODg1NTE=
+buynow_link: /checkout/NjUwLjAmQW5pbWFsIFByaW50IENhbnZhcyBHdWNjaSBCYWNrcGFjayZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZ3VjY2lfQW5pbWFsX1ByaW50X0NhbnZhc19pbWcxLmpwZz92PTE3NDg5ODg1NTE=
 color: Animal print
 material: Canvas
 measurements: 'Length: 145 mm. Width: 110 mm. Height: 240 mm'

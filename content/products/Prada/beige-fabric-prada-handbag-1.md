@@ -10,7 +10,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_H_img3.jpg?v=1749091245
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_H_img4.jpg?v=1749091245
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_H_img5.jpg?v=1749091245
-buynow_link: /checkout/#NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9IX2ltZzFfOTM3NDJhZmEtY2QzMS00YzIwLWE3YmItOTBjZTk4MDYxZjY2LmpwZz92PTE3NDkwOTEyNDU=
+buynow_link: /checkout/NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9IX2ltZzFfOTM3NDJhZmEtY2QzMS00YzIwLWE3YmItOTBjZTk4MDYxZjY2LmpwZz92PTE3NDkwOTEyNDU=
 color: Beige
 material: Fabric
 item_number: 666afab34d132c6e9153d535

@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img1_fcfa694b-bff7-4c82-9a1f-084cd6d01d3b.jpg?v=1749032265
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBWYWxwYXJhaXNvJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxX2ZjZmE2OTRiLWJmZjctNGM4Mi05YTFmLTA4NGNkNmQwMWQzYi5qcGc/dj0xNzQ5MDMyMjY1
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBWYWxwYXJhaXNvJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxX2ZjZmE2OTRiLWJmZjctNGM4Mi05YTFmLTA4NGNkNmQwMWQzYi5qcGc/dj0xNzQ5MDMyMjY1
 color: Beige
 material: Canvas
 measurements: 'Depth : 40 Height : 18 Length : 27'

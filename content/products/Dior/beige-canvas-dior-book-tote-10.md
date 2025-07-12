@@ -13,7 +13,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img6_a22e4a4b-ee5c-4722-81de-c087de8a4f6c.jpg?v=1749019117
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img7_9b1bbfab-c5a4-4e34-a3a9-1f7208cc9100.jpg?v=1749019118
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img8_ab6af711-cdfa-423c-8d2d-797cf89118ff.jpg?v=1749019118
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfMmVjNThjMjItMjEyMy00ZmFkLTg2YjktODZlMTdiMWZkMDgwLmpwZz92PTE3NDkwMTkxMTc=
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfMmVjNThjMjItMjEyMy00ZmFkLTg2YjktODZlMTdiMWZkMDgwLmpwZz92PTE3NDkwMTkxMTc=
 color: Beige
 material: Canvas
 measurements: 'Length: 419 mm. Height: 190 mm'

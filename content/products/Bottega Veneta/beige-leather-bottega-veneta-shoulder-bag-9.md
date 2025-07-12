@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img4_a3f58c8c-8073-4783-99a3-6cc93fe3deb9.jpg?v=1749022394
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img5_7be649f2-27b9-46ab-b0d8-01ad09d2bb4a.jpg?v=1749022394
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img6_c413f97a-93d6-4d23-a786-93a9409d2b2b.jpg?v=1749022394
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBTaG91bGRlciBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0xlYXRoZXJfQm90dGVnX2ltZzFfYjk2ZmUzNDktYjkxNy00ZDI4LTlmNTktM2I2NWJiMWI3YjcyLmpwZz92PTE3NDkwMjIzOTQ=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBTaG91bGRlciBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0xlYXRoZXJfQm90dGVnX2ltZzFfYjk2ZmUzNDktYjkxNy00ZDI4LTlmNTktM2I2NWJiMWI3YjcyLmpwZz92PTE3NDkwMjIzOTQ=
 color: Beige
 material: Leather
 measurements: '13cm. Depth: 4cm. Height: 9cm.'

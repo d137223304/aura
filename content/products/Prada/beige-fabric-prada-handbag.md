@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_H_img1.jpg?v=1749084063
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgRmFicmljIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9IX2ltZzEuanBnP3Y9MTc0OTA4NDA2Mw==
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgRmFicmljIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9IX2ltZzEuanBnP3Y9MTc0OTA4NDA2Mw==
 color: Beige
 material: Fabric
 item_number: 680938fea163961db6e3d8db

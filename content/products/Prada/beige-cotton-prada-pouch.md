@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_P_img8.jpg?v=1749090530
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_P_img9.jpg?v=1749090530
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Cotton_Prada_P_img10.jpg?v=1749090530
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ290dG9uIFByYWRhIFBvdWNoJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9Db3R0b25fUHJhZGFfUF9pbWcxLmpwZz92PTE3NDkwOTA1MzA=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ290dG9uIFByYWRhIFBvdWNoJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9Db3R0b25fUHJhZGFfUF9pbWcxLmpwZz92PTE3NDkwOTA1MzA=
 color: Beige
 material: Cotton
 measurements: W19cm x H35cm (W7.5 x H13.8 inches)

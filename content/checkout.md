@@ -1,4 +1,0 @@
----
-title: "Checkout"
-layout: "checkout"
----

@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img4_bf865c37-b27c-4fea-9577-542f2a375f0a.jpg?v=1749010474
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img5_22092185-07bd-4324-8e1d-58774fc289a6.jpg?v=1749010474
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img6_ebb14314-6fcc-4201-adfc-10fb25a12231.jpg?v=1749010474
-buynow_link: /checkout/#NjUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZXlfQ2FudmFzX0JhbGVuY2lhX2ltZzFfNjY1MTcxN2UtMTUyYS00NGJhLWFjMjUtNTc2ZjJhN2RhZDAyLmpwZz92PTE3NDkwMTA0NzQ=
+buynow_link: /checkout/NjUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZXlfQ2FudmFzX0JhbGVuY2lhX2ltZzFfNjY1MTcxN2UtMTUyYS00NGJhLWFjMjUtNTc2ZjJhN2RhZDAyLmpwZz92PTE3NDkwMTA0NzQ=
 color: Grey
 material: Canvas
 measurements: 'Length: 280 mm. Width: 110 mm. Height: 210 mm'

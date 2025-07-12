@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img4_e1551a43-29c4-42f1-93ef-5057bca67654.jpg?v=1749025341
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img5_cc71d0c9-51e9-4fc4-8c79-d7fcf90ae456.jpg?v=1749025341
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img6_8f8694a8-753b-4f70-9932-21514baf0907.jpg?v=1749025341
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBWYWxwYXJhaXNvJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxX2ZmMjBjYTY1LTQxYmMtNDJmNy1hYTlkLTcyZjcyOGNmZWMzNS5qcGc/dj0xNzQ5MDI1MzQx
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBWYWxwYXJhaXNvJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxX2ZmMjBjYTY1LTQxYmMtNDJmNy1hYTlkLTcyZjcyOGNmZWMzNS5qcGc/dj0xNzQ5MDI1MzQx
 color: Beige
 material: Canvas
 measurements: 'Handle Drop: 350 mm. Length: 305 mm. Width: 140 mm. Height: 210 mm'

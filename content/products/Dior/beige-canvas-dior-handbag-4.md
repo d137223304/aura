@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img8_4599d51a-01a6-4db9-996b-0818b7d7d280.jpg?v=1749017257
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img9_f36c6770-f211-4551-924d-1cea6d1d8591.jpg?v=1749017257
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img10_35aa269d-b394-419a-bea9-fd1b3b9cc8fc.jpg?v=1749017257
-buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxXzFjNWFhYWMwLTAwYWUtNDliYi05N2Q3LWMwMGQzMTg0YzkxNS5qcGc/dj0xNzQ5MDE3MjU3
+buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxXzFjNWFhYWMwLTAwYWUtNDliYi05N2Q3LWMwMGQzMTg0YzkxNS5qcGc/dj0xNzQ5MDE3MjU3
 color: Beige
 material: Canvas
 measurements: '15 Depth : 11 Height : 26 Length : 25'

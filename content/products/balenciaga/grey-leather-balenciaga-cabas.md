@@ -6,7 +6,7 @@ price: 550.0
 original_price: 770.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Leather_Balenci_img1_b2bddf54-6ac9-4e00-884c-cadad12080f0.jpg?v=1749010620
-buynow_link: /checkout/#NTUwLjAmR3JleSBMZWF0aGVyIEJhbGVuY2lhZ2EgQ2FiYXMmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JhbGVuY2lhZ2FfR3JleV9MZWF0aGVyX0JhbGVuY2lfaW1nMV9iMmJkZGY1NC02YWM5LTRlMDAtODg0Yy1jYWRhZDEyMDgwZjAuanBnP3Y9MTc0OTAxMDYyMA==
+buynow_link: /checkout/NTUwLjAmR3JleSBMZWF0aGVyIEJhbGVuY2lhZ2EgQ2FiYXMmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JhbGVuY2lhZ2FfR3JleV9MZWF0aGVyX0JhbGVuY2lfaW1nMV9iMmJkZGY1NC02YWM5LTRlMDAtODg0Yy1jYWRhZDEyMDgwZjAuanBnP3Y9MTc0OTAxMDYyMA==
 color: Grey
 material: Leather
 measurements: 'w: 7, l: 24, d: 18'

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sa_img8_eab7866a-1e25-4f73-97d8-7800f2250a24.jpg?v=1749016835
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sa_img9_6ce5b9f5-a397-4772-93cc-8367ebfaee5b.jpg?v=1749016835
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sa_img10_2794ab56-2909-4c92-9bd8-f264e8f1ef4d.jpg?v=1749016835
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgU2FkZGxlIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9TYV9pbWcxXzQ0NDM2NWJhLTg1YTUtNGU5OS1hYzZhLTNmZmM3YjI3NmIzMS5qcGc/dj0xNzQ5MDE2ODM1
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgU2FkZGxlIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9TYV9pbWcxXzQ0NDM2NWJhLTg1YTUtNGU5OS1hYzZhLTNmZmM3YjI3NmIzMS5qcGc/dj0xNzQ5MDE2ODM1
 color: Beige, Yellow
 material: Canvas
 measurements: 'Shoulder strap : 55Depth : 3Height : 17Length : 26'

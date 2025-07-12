@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Canvas_Bottega_img8_b2f28f93-a829-47e6-983e-3ebefa6676d9.jpg?v=1749023254
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Canvas_Bottega_img9_665d6298-26c3-41bc-9846-a1330da23415.jpg?v=1749023254
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Canvas_Bottega_img10_0a46ebd8-044a-4225-a12b-338ffaaceb19.jpg?v=1749023254
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0NhbnZhc19Cb3R0ZWdhX2ltZzFfNTJiMDJiODYtMTUzMS00ZWExLWI4OWUtZmE5NTlmMjA1YmE1LmpwZz92PTE3NDkwMjMyNTQ=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0NhbnZhc19Cb3R0ZWdhX2ltZzFfNTJiMDJiODYtMTUzMS00ZWExLWI4OWUtZmE5NTlmMjA1YmE1LmpwZz92PTE3NDkwMjMyNTQ=
 color: Beige
 material: Canvas
 measurements: 24cm x 36.5cm x 14cm

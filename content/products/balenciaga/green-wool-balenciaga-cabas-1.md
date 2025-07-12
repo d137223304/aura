@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Wool_Balenciag_img8_ae33f5bb-41c7-4042-9259-190cb02f4ea1.jpg?v=1749012867
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Wool_Balenciag_img9_f8f61e81-92b8-4dcb-99c4-d397395498e4.jpg?v=1749012867
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Wool_Balenciag_img10_958896f0-76e5-4ab4-b894-c1f69c277254.jpg?v=1749012867
-buynow_link: /checkout/#NTUwLjAmR3JlZW4gV29vbCBCYWxlbmNpYWdhIENhYmFzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX1dvb2xfQmFsZW5jaWFnX2ltZzFfNDg4MmY2YjAtOTY2Yi00NjRiLTlkOWUtN2RkMDcwNmNiNjhhLmpwZz92PTE3NDkwMTI4Njc=
+buynow_link: /checkout/NTUwLjAmR3JlZW4gV29vbCBCYWxlbmNpYWdhIENhYmFzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX1dvb2xfQmFsZW5jaWFnX2ltZzFfNDg4MmY2YjAtOTY2Yi00NjRiLTlkOWUtN2RkMDcwNmNiNjhhLmpwZz92PTE3NDkwMTI4Njc=
 color: Green
 material: Wool
 measurements: H 22cm x W 45cm x D 18cm

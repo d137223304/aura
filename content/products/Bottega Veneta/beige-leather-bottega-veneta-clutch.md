@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img8_a790d18c-7c40-40ff-91fd-5dd8ec2820e0.jpg?v=1749022083
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img9_d6f05e36-c419-4715-b049-afa3b63498a2.jpg?v=1749022083
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img10_681d5775-5b81-4347-a87d-8726c296dcd4.jpg?v=1749022083
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBDbHV0Y2gmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0xlYXRoZXJfQm90dGVnX2ltZzFfZDYzMTVhYWEtZTBhZC00MWQzLThhYWItMjg0MTVjMzg2Y2FmLmpwZz92PTE3NDkwMjIwODM=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBDbHV0Y2gmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0xlYXRoZXJfQm90dGVnX2ltZzFfZDYzMTVhYWEtZTBhZC00MWQzLThhYWItMjg0MTVjMzg2Y2FmLmpwZz92PTE3NDkwMjIwODM=
 color: Beige, Gold
 material: Leather
 measurements: Width 95mm Height 85mm Length 190mm

@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img4.jpg?v=1749015638
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img5.jpg?v=1749015638
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img6.jpg?v=1749015638
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxXzQ2NjVjODQ1LWFlODctNDRlNC1hMGYzLWZmOGE2ZGFkM2Y2NC5qcGc/dj0xNzQ5MDE1NjM4
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxXzQ2NjVjODQ1LWFlODctNDRlNC1hMGYzLWZmOGE2ZGFkM2Y2NC5qcGc/dj0xNzQ5MDE1NjM4
 color: Beige
 material: Canvas
 measurements: 'Length: 180 mm. Width: 100 mm. Height: 150 mm'

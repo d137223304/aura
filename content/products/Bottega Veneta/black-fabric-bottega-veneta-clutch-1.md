@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img8_2b19143c-d5b7-49e9-b434-e1eca34eb965.jpg?v=1749023430
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img9_58e1b858-82fd-4f37-a6fc-b45184290b04.jpg?v=1749023430
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img10_0c80ad0a-c069-4ba0-8b67-0353ae688cc3.jpg?v=1749023430
-buynow_link: /checkout/#NTUwLjAmQmxhY2sgRmFicmljIEJvdHRlZ2EgVmVuZXRhIENsdXRjaCZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfRmFicmljX0JvdHRlZ2FfaW1nMV8zZWY5MDNkNC1mNzg2LTQ3ODctODRjNi01MzNiMTFjODg5ZjcuanBnP3Y9MTc0OTAyMzQzMA==
+buynow_link: /checkout/NTUwLjAmQmxhY2sgRmFicmljIEJvdHRlZ2EgVmVuZXRhIENsdXRjaCZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfRmFicmljX0JvdHRlZ2FfaW1nMV8zZWY5MDNkNC1mNzg2LTQ3ODctODRjNi01MzNiMTFjODg5ZjcuanBnP3Y9MTc0OTAyMzQzMA==
 color: Black, Blue
 material: Fabric
 item_number: 666afaca4d132c6e9153f473

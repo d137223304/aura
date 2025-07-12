@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img8_f2f832e1-7d5f-442f-9cea-8ad0b38f8304.jpg?v=1748998793
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img9_e4e8ef08-102f-4e04-8570-fb8da4e20a71.jpg?v=1748998793
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img10_3c6d48e1-84c3-471a-ad62-7b23cd89bc5b.jpg?v=1748998793
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhbWJvbyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZ3VjY2lfQmVpZ2VfQ2FudmFzX0d1Y2NpX0JfaW1nMV85MDNlMzFhNS1hM2Q2LTRlNWYtOTMxMC1mODBmNTkxMTdhMzEuanBnP3Y9MTc0ODk5ODc5Mw==
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhbWJvbyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZ3VjY2lfQmVpZ2VfQ2FudmFzX0d1Y2NpX0JfaW1nMV85MDNlMzFhNS1hM2Q2LTRlNWYtOTMxMC1mODBmNTkxMTdhMzEuanBnP3Y9MTc0ODk5ODc5Mw==
 color: Beige, Brown
 material: Canvas
 measurements: 14.5cm x 22cm x 7.5cm

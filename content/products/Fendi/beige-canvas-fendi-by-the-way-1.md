@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_B_img4_b4d94e37-9567-4d71-8872-4d24565fbe96.jpg?v=1749037703
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_B_img5_070fd52f-0a22-496f-b5dd-22de1bee6a26.jpg?v=1749037703
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_B_img6_065f94f7-18b4-4184-a6aa-adcfa766d19a.jpg?v=1749037703
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEZlbmRpIEJ5IFRoZSBXYXkmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2ZlbmRpX0JlaWdlX0NhbnZhc19GZW5kaV9CX2ltZzFfZmI2MzQwODAtZmI4OS00OTI4LWIyODItMGI2NGQwNTEzNjUwLmpwZz92PTE3NDkwMzc3MDM=
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEZlbmRpIEJ5IFRoZSBXYXkmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2ZlbmRpX0JlaWdlX0NhbnZhc19GZW5kaV9CX2ltZzFfZmI2MzQwODAtZmI4OS00OTI4LWIyODItMGI2NGQwNTEzNjUwLmpwZz92PTE3NDkwMzc3MDM=
 color: Beige
 material: Canvas
 measurements: 'Handle Drop: 40 mm. Length: 270 mm. Width: 125 mm. Height: 170 mm'

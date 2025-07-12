@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img4_eb48d74e-266c-4207-a8c4-023e6c561490.jpg?v=1749093143
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img5_fe87ea70-8478-488a-baed-04843a66764f.jpg?v=1749093143
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img6_d6933bcb-eefc-47fa-ac10-65d34940acf8.jpg?v=1749093143
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBHYWxsZXJpYSBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0xlYXRoZXJfUHJhZGFfaW1nMV8xM2JjM2FmNi1hMWZkLTQ5MzgtODRhNy00NmE4MWM5NWVlMTAuanBnP3Y9MTc0OTA5MzE0Mw==
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBHYWxsZXJpYSBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0xlYXRoZXJfUHJhZGFfaW1nMV8xM2JjM2FmNi1hMWZkLTQ5MzgtODRhNy00NmE4MWM5NWVlMTAuanBnP3Y9MTc0OTA5MzE0Mw==
 color: Beige
 material: Leather
 measurements: 'Handle Drop: 370 mm. Length: 300 mm. Width: 130 mm. Height: 200 mm'

@@ -10,7 +10,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img3_89700130-0721-4b00-836b-1783b4d62de9.jpg?v=1749083023
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img4_3ec51f22-bd76-40bf-af9d-92500cd1cb78.jpg?v=1749083023
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img5_aaf4d46f-6ab2-43ae-850c-58acdc87645f.jpg?v=1749083023
-buynow_link: /checkout/#NTUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9MZWF0aGVyX1ByYWRhX2ltZzFfN2ExYjJkNjgtYWY1NC00ZjIxLTk4NzYtMDM0YzQzMGJhZDA4LmpwZz92PTE3NDkwODMwMjM=
+buynow_link: /checkout/NTUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9MZWF0aGVyX1ByYWRhX2ltZzFfN2ExYjJkNjgtYWY1NC00ZjIxLTk4NzYtMDM0YzQzMGJhZDA4LmpwZz92PTE3NDkwODMwMjM=
 color: Beige, Pink
 material: Leather
 measurements: 26cm x 36cm x 16cm

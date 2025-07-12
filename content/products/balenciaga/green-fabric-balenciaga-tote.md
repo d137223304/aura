@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img8.jpg?v=1749009683
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img9.jpg?v=1749009683
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img10.jpg?v=1749009683
-buynow_link: /checkout/#NjUwLjAmR3JlZW4gRmFicmljIEJhbGVuY2lhZ2EgVG90ZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9GYWJyaWNfQmFsZW5jaV9pbWcxLmpwZz92PTE3NDkwMDk2ODM=
+buynow_link: /checkout/NjUwLjAmR3JlZW4gRmFicmljIEJhbGVuY2lhZ2EgVG90ZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9GYWJyaWNfQmFsZW5jaV9pbWcxLmpwZz92PTE3NDkwMDk2ODM=
 color: Green
 material: Fabric
 measurements: 'w: 13, d: 19'

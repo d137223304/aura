@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img8_140825b7-2d76-473b-abf8-375541e0c761.jpg?v=1749022784
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img9_14f01f34-8d4e-4c79-8fd0-01954ec3766c.jpg?v=1749022784
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Fabric_Bottega_img10_e94a51ec-418c-4749-a5b5-93404e8a2f75.jpg?v=1749022784
-buynow_link: /checkout/#NTI2LjQmQmxhY2sgRmFicmljIEJvdHRlZ2EgVmVuZXRhIENsdXRjaCZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfRmFicmljX0JvdHRlZ2FfaW1nMV8wMWQzZGY2NC01ZTM1LTRkZWMtODE4OS1lOTA5MzQzNDk4MjMuanBnP3Y9MTc0OTAyMjc4NA==
+buynow_link: /checkout/NTI2LjQmQmxhY2sgRmFicmljIEJvdHRlZ2EgVmVuZXRhIENsdXRjaCZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfRmFicmljX0JvdHRlZ2FfaW1nMV8wMWQzZGY2NC01ZTM1LTRkZWMtODE4OS1lOTA5MzQzNDk4MjMuanBnP3Y9MTc0OTAyMjc4NA==
 color: Black
 material: Fabric
 measurements: 27cm x 38cm x 13cm   Total Weight  340g

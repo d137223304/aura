@@ -14,7 +14,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img7_2cf989de-da85-4051-8bf1-b065e976be02.jpg?v=1748980117
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img8_802a1900-9c97-4d7f-933f-5010c65eca2e.jpg?v=1748980117
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img9_db3e201b-0441-4481-9f47-729c9214e111.jpg?v=1748980117
-buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzVmY2ExMWJiLTg4YjYtNGY5MC04ZjFjLWQyZjBjODEwOGFhMy5qcGc/dj0xNzQ4OTgwMTE3
+buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzVmY2ExMWJiLTg4YjYtNGY5MC04ZjFjLWQyZjBjODEwOGFhMy5qcGc/dj0xNzQ4OTgwMTE3
 color: Beige
 material: Canvas
 item_number: 666afae64d132c6e91541b7d

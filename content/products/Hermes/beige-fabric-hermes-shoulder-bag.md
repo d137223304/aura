@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Fabric_Hermes_img8_e227bfc7-09f5-4320-9edd-5cc3635091d7.jpg?v=1749030962
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Fabric_Hermes_img9_502c6fa5-90fd-4c55-8dd4-7df8998151a3.jpg?v=1749030962
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Fabric_Hermes_img10_3aaec328-51bf-4b6d-a7e4-a56bd2d657e9.jpg?v=1749030962
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgRmFicmljIEhlcm1lcyBTaG91bGRlciBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2hlcm1lc19CZWlnZV9GYWJyaWNfSGVybWVzX2ltZzFfZTNlZjUzZGQtMmE2Yi00ZTczLWIwYjItYTg4YjAzYjkzZDliLmpwZz92PTE3NDkwMzA5NjI=
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgRmFicmljIEhlcm1lcyBTaG91bGRlciBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2hlcm1lc19CZWlnZV9GYWJyaWNfSGVybWVzX2ltZzFfZTNlZjUzZGQtMmE2Yi00ZTczLWIwYjItYTg4YjAzYjkzZDliLmpwZz92PTE3NDkwMzA5NjI=
 color: Beige
 material: Fabric
 measurements: 31cm x 32cm x 8cm / 12.2'' x 12.59'' x 3.14''"

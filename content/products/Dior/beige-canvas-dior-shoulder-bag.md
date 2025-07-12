@@ -6,7 +6,7 @@ price: 550.0
 original_price: 770.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Sh_img1.jpg?v=1749014179
-buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgU2hvdWxkZXIgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX1NoX2ltZzEuanBnP3Y9MTc0OTAxNDE3OQ==
+buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgU2hvdWxkZXIgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX1NoX2ltZzEuanBnP3Y9MTc0OTAxNDE3OQ==
 color: Beige
 material: Canvas
 measurements: 'l: 25, d: 20'

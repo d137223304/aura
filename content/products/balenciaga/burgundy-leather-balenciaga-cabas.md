@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Burgundy_Leather_Bal_img8.jpg?v=1749011685
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Burgundy_Leather_Bal_img9.jpg?v=1749011685
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Burgundy_Leather_Bal_img10.jpg?v=1749011685
-buynow_link: /checkout/#NTUwLjAmQnVyZ3VuZHkgTGVhdGhlciBCYWxlbmNpYWdhIENhYmFzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0J1cmd1bmR5X0xlYXRoZXJfQmFsX2ltZzEuanBnP3Y9MTc0OTAxMTY4NQ==
+buynow_link: /checkout/NTUwLjAmQnVyZ3VuZHkgTGVhdGhlciBCYWxlbmNpYWdhIENhYmFzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0J1cmd1bmR5X0xlYXRoZXJfQmFsX2ltZzEuanBnP3Y9MTc0OTAxMTY4NQ==
 color: Burgundy
 material: Leather
 measurements: H 23cm x W 30cm x D 17cm

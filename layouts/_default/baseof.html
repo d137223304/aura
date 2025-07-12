@@ -48,6 +48,9 @@
       {{ $styles = $styles | minify | fingerprint }}
     {{ end }}
     <link rel="stylesheet" href="{{ $styles.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $styles.Data.Integrity }}"{{ end }}>
+
+    {{/* Flowbite CDN for checkout page components */}}
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
     
     <script defer src="{{ "/js/alpine.min.js" | relURL }}"></script>
 </head>
@@ -123,5 +126,8 @@
             </div>
         </div>
     </footer>
+
+    {{/* Flowbite JS */}}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.js"></script>
 </body>
 </html>

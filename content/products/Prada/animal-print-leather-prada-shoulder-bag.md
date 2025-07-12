@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Animal_Print_Leather_img4.jpg?v=1749082952
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Animal_Print_Leather_img5.jpg?v=1749082952
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Animal_Print_Leather_img6.jpg?v=1749082952
-buynow_link: /checkout/#NjUwLjAmQW5pbWFsIFByaW50IExlYXRoZXIgUHJhZGEgU2hvdWxkZXIgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9BbmltYWxfUHJpbnRfTGVhdGhlcl9pbWcxLmpwZz92PTE3NDkwODI5NTI=
+buynow_link: /checkout/NjUwLjAmQW5pbWFsIFByaW50IExlYXRoZXIgUHJhZGEgU2hvdWxkZXIgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9BbmltYWxfUHJpbnRfTGVhdGhlcl9pbWcxLmpwZz92PTE3NDkwODI5NTI=
 color: Animal print
 material: Leather
 measurements: 'Handle Drop: 190.5 mm. Length: 266 mm. Width: 55 mm. Height: 159 mm'

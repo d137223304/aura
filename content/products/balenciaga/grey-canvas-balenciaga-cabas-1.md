@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img8_20ab8b1e-c683-44fc-9903-d9663044de7a.jpg?v=1749011102
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img9.jpg?v=1749011102
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img10.jpg?v=1749011102
-buynow_link: /checkout/#NTUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBDYWJhcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0NhbnZhc19CYWxlbmNpYV9pbWcxX2NmMmRjZmIwLTQ0ZTAtNGVhNC05ZTM1LWE4MDc4MzExMGZiMy5qcGc/dj0xNzQ5MDExMTAy
+buynow_link: /checkout/NTUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBDYWJhcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0NhbnZhc19CYWxlbmNpYV9pbWcxX2NmMmRjZmIwLTQ0ZTAtNGVhNC05ZTM1LWE4MDc4MzExMGZiMy5qcGc/dj0xNzQ5MDExMTAy
 color: Grey
 material: Canvas
 measurements: H 24cm x W 30cm x D 18cm

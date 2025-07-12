@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beige Canvas Hermes Garden Party | Vintique</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ['Lato', 'sans-serif'],
+              serif: ['Cormorant Garamond', 'serif'],
+            },
+            colors: {
+              'brand-dark': '#222222',
+              'brand-gold': '#a88562',
+              'brand-light': '#fdfdfd',
+              'brand-gray': '#f5f5f5',
+            }
+          }
+        }
+      }
+    </script>
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com/3.4.1?plugins=typography"></script>
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body class="bg-brand-light text-brand-dark font-sans">
+
+    <header x-data="{ mobileMenuOpen: false }" class="bg-white/95 backdrop-blur-lg border-b border-gray-200 sticky top-0 z-50">
+        <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+            <a href="//localhost:1313/" class="font-serif font-bold text-2xl tracking-wider text-brand-dark">Vintique</a>
+
+            <div class="hidden md:flex items-center space-x-8">
+
+                <a href="/brands/" class="font-sans text-sm tracking-widest uppercase hover:text-brand-gold transition-colors">Brands</a>
+
+                <a href="/about-us/" class="font-sans text-sm tracking-widest uppercase hover:text-brand-gold transition-colors">About Us</a>
+
+                <a href="/guarantee/" class="font-sans text-sm tracking-widest uppercase hover:text-brand-gold transition-colors">Authenticity Guarantee</a>
+
+                <a href="/shipping-policy/" class="font-sans text-sm tracking-widest uppercase hover:text-brand-gold transition-colors">Shipping</a>
+
+                <a href="/qa/" class="font-sans text-sm tracking-widest uppercase hover:text-brand-gold transition-colors">Q&amp;A</a>
+
+            </div>
+
+            <div class="hidden md:flex items-center space-x-5">
+                <a href="#" class="hover:text-brand-gold"><svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></a>
+                <a href="#" class="hover:text-brand-gold"><svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z"></path></svg></a>
+                <a href="#" class="hover:text-brand-gold"><svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg></a>
+            </div>
+
+            <div class="md:hidden">
+                <button @click="mobileMenuOpen = !mobileMenuOpen">
+                    <svg class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
+                </button>
+            </div>
+        </nav>
+
+        <div x-show="mobileMenuOpen" x-cloak class="md:hidden border-t border-gray-200">
+            <div class="flex flex-col space-y-4 p-6">
+
+                <a href="/brands/" class="font-sans text-md tracking-widest uppercase hover:text-brand-gold transition-colors">Brands</a>
+
+                <a href="/about-us/" class="font-sans text-md tracking-widest uppercase hover:text-brand-gold transition-colors">About Us</a>
+
+                <a href="/guarantee/" class="font-sans text-md tracking-widest uppercase hover:text-brand-gold transition-colors">Authenticity Guarantee</a>
+
+                <a href="/shipping-policy/" class="font-sans text-md tracking-widest uppercase hover:text-brand-gold transition-colors">Shipping</a>
+
+                <a href="/qa/" class="font-sans text-md tracking-widest uppercase hover:text-brand-gold transition-colors">Q&amp;A</a>
+
+            </div>
+        </div>
+    </header>
+
+    <main>
+
+<div class="container mx-auto px-6 py-8 md:py-16">
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-20 max-w-7xl mx-auto">
+
+
+        <div x-data="{ mainImage: 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img1_dd950d0e-cd2b-46a6-8065-043b2225283a.jpg?v=1749024358' }">
+            <a :href="mainImage.split('?')[0]" target="_blank" class="block mb-4 bg-white border border-gray-200 rounded-md shadow-sm overflow-hidden">
+                <img :src="mainImage.split('?')[0] + '?' + mainImage.split('?')[1] + '&width=713&format=webp'" alt="Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="713" height="713">
+            </a>
+            <div class="grid grid-cols-5 gap-3">
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img1_dd950d0e-cd2b-46a6-8065-043b2225283a.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img1_dd950d0e-cd2b-46a6-8065-043b2225283a.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img1_dd950d0e-cd2b-46a6-8065-043b2225283a.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img2_9a3bc267-f64a-461d-8d70-3c45f01e6e98.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img2_9a3bc267-f64a-461d-8d70-3c45f01e6e98.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img2_9a3bc267-f64a-461d-8d70-3c45f01e6e98.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img3_356e976e-124e-421b-a16c-f47dc5e0c06d.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img3_356e976e-124e-421b-a16c-f47dc5e0c06d.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img3_356e976e-124e-421b-a16c-f47dc5e0c06d.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img4_aa4662e0-0f33-41cf-9be8-c97c3a13d814.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img4_aa4662e0-0f33-41cf-9be8-c97c3a13d814.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img4_aa4662e0-0f33-41cf-9be8-c97c3a13d814.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img5_37ee8427-79f3-45b1-8f71-289615309256.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img5_37ee8427-79f3-45b1-8f71-289615309256.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img5_37ee8427-79f3-45b1-8f71-289615309256.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img6_02d4d2ca-2457-4ee9-812f-83ad7ce7c69a.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img6_02d4d2ca-2457-4ee9-812f-83ad7ce7c69a.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img6_02d4d2ca-2457-4ee9-812f-83ad7ce7c69a.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img7_8791ddee-f872-4ff1-9d45-7ce36bcbe08b.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img7_8791ddee-f872-4ff1-9d45-7ce36bcbe08b.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img7_8791ddee-f872-4ff1-9d45-7ce36bcbe08b.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img8_54d15f6f-a2e6-4301-aff1-b14983cfa3d7.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img8_54d15f6f-a2e6-4301-aff1-b14983cfa3d7.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img8_54d15f6f-a2e6-4301-aff1-b14983cfa3d7.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img9_5ee026f1-2ece-43bd-9954-498bf098e45c.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img9_5ee026f1-2ece-43bd-9954-498bf098e45c.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img9_5ee026f1-2ece-43bd-9954-498bf098e45c.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+
+                    <div class="border rounded bg-white cursor-pointer" :class="{ 'border-brand-gold ring-2 ring-brand-gold': mainImage == 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img10_3706b4d4-08d7-4557-a555-aee0e27df969.jpg?v=1749024358' }">
+                        <img @click="mainImage = 'https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img10_3706b4d4-08d7-4557-a555-aee0e27df969.jpg?v=1749024358'" src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img10_3706b4d4-08d7-4557-a555-aee0e27df969.jpg?v%3d1749024358&width=208&format=webp" alt="Thumbnail of Beige Canvas Hermes Garden Party" class="w-full h-auto aspect-square object-cover" loading="lazy" width="208" height="208">
+                    </div>
+
+            </div>
+        </div>
+
+        <div class="flex flex-col pt-4">
+            <h1 class="text-4xl lg:text-5xl font-serif font-bold text-brand-dark">Beige Canvas Hermes Garden Party</h1>
+
+            <div class="mt-4">
+                <span class="text-4xl font-sans font-bold text-brand-dark">$650</span>
+                <span class="text-2xl text-gray-400 line-through ml-4">$910</span>
+            </div>
+
+            <p class="mt-6 text-gray-600 text-lg leading-relaxed font-sans">Shop the authentic Beige Canvas Hermes Garden Party. Made of Canvas and comes in a beautiful Beige. Authenticity guaranteed.</p>
+
+            <div class="mt-10">
+                <a href="/checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBHYXJkZW4gUGFydHkmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2hlcm1lc19CZWlnZV9DYW52YXNfSGVybWVzX2ltZzFfZGQ5NTBkMGUtY2QyYi00NmE2LTgwNjUtMDQzYjIyMjUyODNhLmpwZz92PTE3NDkwMjQzNTg="
+                    class="block w-full bg-gray-900 text-white font-bold tracking-wider py-4 px-6 rounded-md hover:bg-gray-700 transition-colors duration-300 flex items-center justify-center space-x-3 text-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" /></svg>
+                    <span>Buy Now</span>
+                </a>
+            </div>
+
+            <div class="mt-10 border-t border-gray-200" x-data="{ open: 'desc' }">
+                <div class="border-b border-gray-200">
+                    <button @click="open = (open === 'desc' ? '' : 'desc')" class="w-full py-5 font-serif text-xl font-semibold flex justify-between items-center text-left">
+                        <span>Description</span>
+                        <span class="transform transition-transform text-2xl font-light" :class="{ 'rotate-45': open === 'desc' }">+</span>
+                    </button>
+                    <div x-show="open === 'desc'" x-cloak x-collapse class="pb-4 prose prose-lg max-w-none text-gray-700">
+                        <p>The Garden Party 36 features a canvas body with Negonda leather trim, rolled leather handles, and an open top with snap button closure. It carries a B+ condition rating.Exterior Back Discolored, Worn. Exterior Bottom Discolored, Worn. Lock Scratched. Exterior Corners Worn. Embellishment Scratched. Exterior Front Discolored, Worn. Exterior Front stained with Pen Mark. Exterior Handle Worn. Interior Lining Discolored, Worn. Interior Lining stained with Other. Practical Attachment Scratched. Exterior Side Discolored, Worn. Exterior Side stained with Pen Mark. Exterior Top Worn. Dimensions:Length 39.5cmWidth 18cmHeight 26cmHand Drop 14cmOriginal Accessories: This item has no other original accessories.Color: Brown x BeigeBrown x Dark BrownMaterial: Fabric x CanvasLeather x Calf<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+
+                    </div>
+                </div>
+                <div class="border-b border-gray-200">
+                    <button @click="open = (open === 'specs' ? '' : 'specs')" class="w-full py-5 font-serif text-xl font-semibold flex justify-between items-center text-left">
+                        <span>Specifications</span>
+                        <span class="transform transition-transform text-2xl font-light" :class="{ 'rotate-45': open === 'specs' }">+</span>
+                    </button>
+                    <div x-show="open === 'specs'" x-cloak x-collapse class="pb-4 text-gray-700 font-sans">
+                        <ul class="space-y-3">
+                             <li class="flex text-md"><strong class="w-1/3 font-semibold">Material:</strong><span class="w-2/3">Canvas</span></li>
+                             <li class="flex text-md"><strong class="w-1/3 font-semibold">Color:</strong><span class="w-2/3">Beige</span></li>
+                             <li class="flex text-md"><strong class="w-1/3 font-semibold">Measurements:</strong><span class="w-2/3">Length: 26.00 x Width: 39.50 x Depth: 18.00</span></li>
+                             <li class="flex text-md"><strong class="w-1/3 font-semibold">Origin:</strong><span class="w-2/3">FR</span></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-24 lg:mt-32 max-w-7xl mx-auto">
+        <h2 class="text-4xl font-serif font-bold text-center mb-12">You May Also Like</h2>
+
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
+
+                <a href="//localhost:1313/products/prada/beige-canvas-prada-handbag-12/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img1_5d9d77fd-92b4-46a2-be3d-086bcdd62277.jpg?v%3d1749088756&width=400&format=webp" alt="Beige Canvas Prada Handbag" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Canvas Prada Handbag</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$650</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/dior/beige-canvas-dior-crossbody-bag-1/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Cr_img1_591fc664-fa78-437f-9693-99d3d6fd2c6d.jpg?v%3d1749016747&width=400&format=webp" alt="Beige Canvas Dior Crossbody Bag" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Canvas Dior Crossbody Bag</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$650</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/balenciaga/green-fabric-balenciaga-handbag/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Fabric_Balenci_img1_32bf426e-a89b-4ee3-bae4-debbdb777548.jpg?v%3d1749010262&width=400&format=webp" alt="Green Fabric Balenciaga Handbag" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Green Fabric Balenciaga Handbag</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$650</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/louis-vuitton/beige-canvas-louis-vuitton-alma-1/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img1_66bfc28e-c74b-43cd-8d62-d880f35ef154.jpg?v%3d1748924275&width=400&format=webp" alt="Beige Canvas Louis Vuitton Alma" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Canvas Louis Vuitton Alma</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$650</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/prada/beige-canvas-prada-shoulder-bag-5/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_S_img1_d5b9d20b-4bfa-40e8-89fc-6e7ca42d04f6.jpg?v%3d1749092055&width=400&format=webp" alt="Beige Canvas Prada Shoulder Bag" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Canvas Prada Shoulder Bag</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$456</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/fendi/beige-canvas-fendi-crossbody-bag/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_C_img1.jpg?v%3d1749035688&width=400&format=webp" alt="Beige Canvas Fendi Crossbody Bag" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Canvas Fendi Crossbody Bag</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$550</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/gucci/beige-canvas-gucci-backpack-7/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img1_ff01a449-a387-4849-b8b7-40c063019306.jpg?v%3d1748990232&width=400&format=webp" alt="Beige Canvas Gucci Backpack" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Canvas Gucci Backpack</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$800</p>
+    </div>
+</a>
+
+                <a href="//localhost:1313/products/prada/beige-fabric-prada-shoulder-bag/" class="bg-white overflow-hidden group">
+    <div class="relative aspect-w-1 aspect-h-1 bg-brand-gray">
+
+
+
+            <img src="https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img1.jpg?v%3d1749087255&width=400&format=webp" alt="Beige Fabric Prada Shoulder Bag" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-105" loading="lazy" width="400" height="400">
+
+    </div>
+    <div class="p-4 text-center">
+        <h3 class="font-serif text-lg text-brand-dark">Beige Fabric Prada Shoulder Bag</h3>
+        <p class="font-bold font-sans text-brand-dark mt-1">$450</p>
+    </div>
+</a>
+
+        </div>
+    </div>
+</div>
+
+    </main>
+
+    <footer class="bg-brand-gray mt-20 pt-16 pb-12 font-sans">
+        <div class="container mx-auto px-6">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left">
+                <div>
+                    <h3 class="font-serif font-bold text-xl mb-4">Vintique</h3>
+                    <p class="text-gray-500">The premier destination for authenticated, pre-owned luxury handbags.</p>
+                </div>
+                <div>
+                    <h3 class="font-bold tracking-wider uppercase mb-4">Quick Links</h3>
+                    <ul class="space-y-2">
+
+                        <li><a href="/brands/" class="text-gray-600 hover:text-brand-gold">Brands</a></li>
+
+                        <li><a href="/about-us/" class="text-gray-600 hover:text-brand-gold">About Us</a></li>
+
+                        <li><a href="/guarantee/" class="text-gray-600 hover:text-brand-gold">Authenticity Guarantee</a></li>
+
+                        <li><a href="/shipping-policy/" class="text-gray-600 hover:text-brand-gold">Shipping</a></li>
+
+                        <li><a href="/qa/" class="text-gray-600 hover:text-brand-gold">Q&amp;A</a></li>
+
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-bold tracking-wider uppercase mb-4">Our Policies</h3>
+                    <ul class="space-y-2">
+
+                        <li><a href="/refund-policy/" class="text-gray-600 hover:text-brand-gold">Refund Policy</a></li>
+
+                        <li><a href="/terms-of-service/" class="text-gray-600 hover:text-brand-gold">Terms of Service</a></li>
+
+                        <li><a href="/track-your-order/" class="text-gray-600 hover:text-brand-gold">Track Your Order</a></li>
+
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-bold tracking-wider uppercase mb-4">Join Our List</h3>
+                    <p class="text-gray-500 mb-4">Get exclusive access to new arrivals and special offers.</p>
+                    <input type="email" placeholder="Enter your email" class="w-full p-2 border border-gray-300 rounded">
+                </div>
+            </div>
+            <div class="mt-12 border-t border-gray-300 pt-8 text-center text-gray-500">
+                <p>&copy; 2025 Vintique. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

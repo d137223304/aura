@@ -6,7 +6,7 @@ price: 800.0
 original_price: 1120.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img1_285f7a78-c8bd-4d94-9b8d-686c0d567540.jpg?v=1749054306
-buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBDcm9zc2JvZHkgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzI4NWY3YTc4LWM4YmQtNGQ5NC05YjhkLTY4NmMwZDU2NzU0MC5qcGc/dj0xNzQ5MDU0MzA2
+buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBDcm9zc2JvZHkgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzI4NWY3YTc4LWM4YmQtNGQ5NC05YjhkLTY4NmMwZDU2NzU0MC5qcGc/dj0xNzQ5MDU0MzA2
 color: Beige
 material: Canvas
 measurements: 'w: 3, l: 12, d: 9'
