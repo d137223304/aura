@@ -21,6 +21,19 @@
         {{ range $brands.Sections }}
             {{ $randomBrandProducts := .Pages | shuffle | first 6 }}
             {{ $showcaseProducts = $showcaseProducts | append $randomBrandProducts }}
+    {{/*
+      CORRECTED LOGIC:
+      We use ".Pages" which automatically contains the products for the current brand section.
+      The 36-product limit is also applied here. (User specified 36, plan had 60, using 36 from user)
+    */}}
+    {{ $limitedProducts := .Pages | first 36 }}
+    {{ $paginator := .Paginate $limitedProducts 12 }}
+
+
+    {{/* Grid for the products */}}
+    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-7xl mx-auto">
+        {{ range $paginator.Pages }}
+            {{ partial "product-card.html" . }}
         {{ end }}
 
         {{/* 2. Paginate the collected list of showcase products. */}}
