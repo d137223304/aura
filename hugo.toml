@@ -20,6 +20,10 @@ title = "Vintique"
   url = "/shipping-policy/"
   weight = 30
 [[menu.main]]
+  name = "Contact Us"
+  url = "/contact-us/"
+  weight = 35
+[[menu.main]]
   name = "Q&A"
   url = "/qa/"
   weight = 40
@@ -37,6 +41,10 @@ title = "Vintique"
   name = "Track Your Order"
   url = "/track-your-order/"
   weight = 30
+[[menu.footer]]
+  name = "Contact Us"
+  url = "/contact-us/"
+  weight = 40
 
   [taxonomies]
   vendor = "brands"
