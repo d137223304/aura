@@ -6,8 +6,13 @@
         <p class="text-xl text-gray-500 mt-3 font-sans">Discover our curated collection for this brand.</p>
     </div>
 
-    {{/* This code implements the custom 36-product limit you requested. */}}
-    {{ $allProducts := where .Site.RegularPages "Section" .Section }}
+    <!-- DEBUG: Current Section is {{ .Section }} -->
+    <!-- DEBUG: Current Page Title is {{ .Title }} -->
+    <!-- DEBUG: Current Page Path is {{ .Path }} -->
+    <!-- DEBUG: Current Page File Path is {{ .File.Path }} -->
+    {{ $currentSection := .Section }}
+    {{ $allProducts := where .Site.RegularPages "Section" $currentSection }}
+    <!-- DEBUG: Found {{ len $allProducts }} products in section '{{ $currentSection }}' -->
     {{ $limitedProducts := $allProducts | first 60 }}
     {{ $paginator := .Paginate $limitedProducts 12 }}
 
