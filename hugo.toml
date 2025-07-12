@@ -40,3 +40,6 @@ title = "Vintique"
 
   [taxonomies]
   vendor = "brands"
+
+[markup.goldmark.renderer]
+  unsafe = true
