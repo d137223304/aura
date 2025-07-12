@@ -40,7 +40,7 @@ layout: "single" # Assuming a default single page layout
   </div>
 
   <div>
-    <h2 class="text-3xl font-serif font-semibold text-brand-dark text-center !mb-10">Meet the Curators (Optional)</h2>
+    <h2 class="text-3xl font-serif font-semibold text-brand-dark text-center !mb-10">Meet the Curators</h2>
     <p class="text-center text-lg mb-10">
       Behind Vintique is a team of dedicated individuals who live and breathe luxury fashion. Our expertise and passion drive our curation process, ensuring that every piece we offer meets our exacting standards.
     </p>
