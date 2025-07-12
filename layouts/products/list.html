@@ -6,21 +6,18 @@
         <p class="text-xl text-gray-500 mt-3 font-sans">Discover our curated collection for this brand.</p>
     </div>
 
-    <!-- DEBUG: Current Section is {{ .Section }} -->
-    <!-- DEBUG: Current Page Title is {{ .Title }} -->
-    <!-- DEBUG: Current Page Path is {{ .Path }} -->
-    <!-- DEBUG: Current Page File Path is {{ with .File }}{{ .Path }}{{ else }}Not a file-backed page{{ end }} -->
-    {{ $currentSection := .Section }}
-    {{ $allProducts := where .Site.RegularPages "Section" $currentSection }}
-    <!-- DEBUG: Found {{ len $allProducts }} products in section '{{ $currentSection }}' -->
-    {{ $limitedProducts := $allProducts | first 60 }}
+    {{/*
+      CORRECTED LOGIC:
+      We use ".Pages" which automatically contains the products for the current brand section.
+      The 36-product limit is also applied here. (User specified 36, plan had 60, using 36 from user)
+    */}}
+    {{ $limitedProducts := .Pages | first 36 }}
     {{ $paginator := .Paginate $limitedProducts 12 }}
 
 
     {{/* Grid for the products */}}
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-7xl mx-auto">
         {{ range $paginator.Pages }}
-            {{/* We use the product card partial we already created! */}}
             {{ partial "product-card.html" . }}
         {{ end }}
     </div>

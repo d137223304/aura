@@ -65,8 +65,7 @@
                      sizes="(max-width: 767px) 100vw, (min-width: 768px) 50vw"
                      alt="{{ .Title }}"
                      class="w-full h-auto aspect-square object-cover"
-                     loading="lazy"
-                     width="713" height="713">
+                     width="713" height="713"> {{-- Removed loading="lazy" for potentially above-the-fold main image --}}
             </a>
             <div class="grid grid-cols-5 gap-3">
                 {{ range .Params.images }}

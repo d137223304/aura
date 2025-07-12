@@ -43,7 +43,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
     
-    {{ $styles := resources.Get "css/main.css" | resources.PostCSS }}
+    {{ $styles := resources.Get "css/main.css" | css.PostCSS }}
     {{ if hugo.IsProduction }}
       {{ $styles = $styles | minify | fingerprint }}
     {{ end }}
