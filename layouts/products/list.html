@@ -3,24 +3,52 @@
 
     <div class="text-center mb-12">
         <h1 class="text-5xl font-serif font-bold tracking-tight text-brand-dark">{{ .Title | humanize | title }}</h1>
-        <p class="text-xl text-gray-500 mt-3 font-sans">Discover our curated collection for this brand.</p>
+        <p class="text-xl text-gray-600 font-serif">
+            {{ if eq .RelPermalink "/products/" }}
+                A Glimpse into Our Curated Collection from Every Brand.
+            {{ else }}
+                Discover our curated collection for this brand.
+            {{ end }}
+        </p>
     </div>
 
-    {{/* This code implements the custom 36-product limit you requested. */}}
-    {{ $allProducts := where .Site.RegularPages "Section" .Section }}
-    {{ $limitedProducts := $allProducts | first 60 }}
-    {{ $paginator := .Paginate $limitedProducts 12 }}
-
-
-    {{/* Grid for the products */}}
-    <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-7xl mx-auto">
-        {{ range $paginator.Pages }}
-            {{/* We use the product card partial we already created! */}}
-            {{ partial "product-card.html" . }}
+    {{ if eq .RelPermalink "/products/" }}
+        {{/* This is the top-level /products/ page. */}}
+        {{/* 1. Collect 6 random products from each brand. */}}
+        {{ $showcaseProducts := slice }}
+        {{ $brands := .Site.GetPage "section" "products" }}
+        
+        {{ range $brands.Sections }}
+            {{ $randomBrandProducts := .Pages | shuffle | first 6 }}
+            {{ $showcaseProducts = $showcaseProducts | append $randomBrandProducts }}
         {{ end }}
-    </div>
 
-    {{/* Render the pagination links */}}
+        {{/* 2. Paginate the collected list of showcase products. */}}
+        {{ $paginator := .Paginate $showcaseProducts 12 }}
+
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-7xl mx-auto">
+            {{ range $paginator.Pages }}
+                {{ partial "product-card.html" . }}
+            {{ end }}
+        </div>
+        
+    {{ else }}
+        {{/* This is a brand-specific page. */}}
+        {{/* 1. Limit to the first 60 products for this brand. */}}
+        {{ $limitedProducts := .Pages | first 60 }}
+
+        {{/* 2. Paginate that limited list. */}}
+        {{ $paginator := .Paginate $limitedProducts 12 }}
+
+        <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6 max-w-7xl mx-auto">
+            {{ range $paginator.Pages }}
+                {{ partial "product-card.html" . }}
+            {{ end }}
+        </div>
+
+    {{ end }}
+
+    {{/* Render the pagination links for BOTH cases */}}
     <div class="mt-16">
         {{ partial "pagination.html" . }}
     </div>
