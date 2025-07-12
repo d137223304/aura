@@ -17,7 +17,6 @@ layout: "single" # Assuming a default single page layout
       <p class="mb-4">Our journey began with a simple observation: countless beautiful, high-quality handbags lay dormant, waiting for their next chapter. We envisioned a trusted space where these treasures could find new homes, where authenticity was paramount, and where the thrill of discovering that perfect vintage find could be experienced with confidence and joy.</p>
     </div>
     <div>
-      {{/* You can replace this with an actual image relevant to your brand */}}
       <img src="https://images.pexels.com/photos/3760875/pexels-photo-3760875.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Stylish handbags display" class="rounded-lg shadow-xl aspect-[4/3] object-cover">
     </div>
   </div>
@@ -45,7 +44,6 @@ layout: "single" # Assuming a default single page layout
     <p class="text-center text-lg mb-10">
       Behind Vintique is a team of dedicated individuals who live and breathe luxury fashion. Our expertise and passion drive our curation process, ensuring that every piece we offer meets our exacting standards.
     </p>
-    {{/*
       Consider adding a section here about your team if you wish. For example:
       <div class="grid md:grid-cols-2 gap-8">
         <div class="text-center">
@@ -61,13 +59,11 @@ layout: "single" # Assuming a default single page layout
           <p class="mt-2 text-sm">A brief bio or quote.</p>
         </div>
       </div>
-    */}}
   </div>
 
   <div class="text-center mt-16 pt-12 border-t border-gray-200">
     <h2 class="text-3xl font-serif font-semibold text-brand-dark !mb-6">Join Our Community</h2>
     <p class="mb-6 text-lg">Follow us on social media and subscribe to our newsletter for the latest arrivals, exclusive offers, and a glimpse into the world of timeless luxury.</p>
-    {{/* Add social media links here if desired */}}
     <a href="/brands/" class="inline-block bg-brand-gold text-white font-bold tracking-wider py-3 px-8 rounded-md hover:bg-opacity-80 transition-colors text-lg">Shop Our Collection</a>
   </div>
 
