@@ -1,12 +1,72 @@
 {{ define "main" }}
+{{ $productName := .Title }}
+{{ $productBrand := .Params.brand | default .Site.Title }} {{/* Default to site title if brand isn't set */}}
+{{ $productPrice := .Params.price }}
+{{ $productCurrency := .Params.currency | default "USD" }}
+{{ $productSku := .Params.sku | default (printf "%s-%s" (urlize $productBrand) (urlize $productName)) }}
+{{ $productImages := .Params.images }}
+{{ $firstImage := "" }}
+{{ if $productImages }}{{ $firstImage = index $productImages 0 }}{{ end }}
+{{/* Ensure image URL is absolute for Shopify CDN images */}}
+{{ $productImageURL := $firstImage }}
+{{ if and $firstImage (not (hasPrefix $firstImage "http")) }}
+    {{ $productImageURL = $firstImage | absURL }}
+{{ else if $firstImage }}
+    {{ $productImageURL = $firstImage }}
+{{ end }}
+
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org/",
+    "@type": "Product",
+    "name": "{{ $productName }}",
+    "image": "{{ $productImageURL }}",
+    {{ with .Params.meta_description }}"description": "{{ . }}",{{ end }}
+    "sku": "{{ $productSku }}",
+    "brand": {
+        "@type": "Brand",
+        "name": "{{ $productBrand }}"
+    },
+    {{ if $productPrice }}
+    "offers": {
+        "@type": "Offer",
+        "url": "{{ .Permalink }}",
+        "priceCurrency": "{{ $productCurrency }}",
+        "price": "{{ $productPrice }}",
+        "itemCondition": "https://schema.org/UsedCondition", {{/* Assuming pre-owned means UsedCondition */}}
+        "availability": "{{ .Params.availability | default "https://schema.org/InStock" }}"
+    }
+    {{ end }}
+    {{/* Optional: Add reviews, aggregateRating etc. if you have them */}}
+}
+</script>
+
 <div class="container mx-auto px-6 py-8 md:py-16">
 
     <div class="grid grid-cols-1 md:grid-cols-2 gap-10 lg:gap-20 max-w-7xl mx-auto">
 
         {{ $firstImage := index .Params.images 0 | default "" }}
-        <div x-data="{ mainImage: '{{ $firstImage }}' }">
+        <div x-data="{ mainImage: '{{ $firstImage }}',
+                        generateSrcset: function(imageUrl) {
+                            if (!imageUrl) return '';
+                            const baseUrl = imageUrl.split('?')[0];
+                            const queryParams = imageUrl.split('?')[1] || '';
+                            const widths = [400, 713, 1000, 1400];
+                            return widths.map(w => `${baseUrl}?${queryParams}&width=${w}&format=webp ${w}w`).join(', ');
+                        },
+                        getMainImageSrc: function(imageUrl) {
+                            if (!imageUrl) return '';
+                            return `${imageUrl.split('?')[0]}?${imageUrl.split('?')[1]}&width=713&format=webp`;
+                        }
+                      }">
             <a :href="mainImage.split('?')[0]" target="_blank" class="block mb-4 bg-white border border-gray-200 rounded-md shadow-sm overflow-hidden">
-                <img :src="mainImage.split('?')[0] + '?' + mainImage.split('?')[1] + '&width=713&format=webp'" alt="{{ .Title }}" class="w-full h-auto aspect-square object-cover" loading="lazy" width="713" height="713">
+                <img :src="getMainImageSrc(mainImage)"
+                     :srcset="generateSrcset(mainImage)"
+                     sizes="(max-width: 767px) 100vw, (min-width: 768px) 50vw"
+                     alt="{{ .Title }}"
+                     class="w-full h-auto aspect-square object-cover"
+                     loading="lazy"
+                     width="713" height="713">
             </a>
             <div class="grid grid-cols-5 gap-3">
                 {{ range .Params.images }}

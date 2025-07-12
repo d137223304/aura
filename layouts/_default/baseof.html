@@ -3,35 +3,53 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} | {{ .Site.Title }}</title>
+
+    {{ $title := .Title }}
+    {{ $siteTitle := .Site.Title }}
+    {{ if .IsHome }}
+        <title>{{ $siteTitle }} | {{ .Site.Params.Tagline | default "Luxury Pre-owned Handbags" }}</title>
+    {{ else }}
+        <title>{{ $title }} | {{ $siteTitle }}</title>
+    {{ end }}
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description | default "Discover authentic pre-owned luxury handbags. Shop now for timeless pieces from top brands." }}{{ end }}{{ end }}">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="{{ .Permalink }}" />
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="{{ $title }}{{ if not .IsHome }} | {{ $siteTitle }}{{ end }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    {{ $ogImage := "" }}
+    {{ if .Params.images }}
+        {{ $ogImage = index .Params.images 0 }}
+        {{/* Attempt to make it an absolute URL if it's from Shopify CDN */}}
+        {{ if not (hasPrefix $ogImage "http") }}{{ $ogImage = absURL $ogImage }}{{ end }}
+    {{ else if .Site.Params.defaultImage }}
+        {{ $ogImage = .Site.Params.defaultImage | absURL }}
+    {{ end }}
+    {{ with $ogImage }}<meta property="og:image" content="{{ . }}" />{{ end }}
+    <meta property="og:site_name" content="{{ $siteTitle }}" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ $title }}{{ if not .IsHome }} | {{ $siteTitle }}{{ end }}" />
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
+    {{ with $ogImage }}<meta name="twitter:image" content="{{ . }}" />{{ end }}
+    {{/* You might want to add <meta name="twitter:site" content="@yourtwitterhandle"> */}}
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;700&family=Lato:wght@400;700&display=swap" rel="stylesheet">
     
-    <script>
-      tailwind.config = {
-        theme: {
-          extend: {
-            fontFamily: {
-              sans: ['Lato', 'sans-serif'],
-              serif: ['Cormorant Garamond', 'serif'],
-            },
-            colors: {
-              'brand-dark': '#222222',
-              'brand-gold': '#a88562',
-              'brand-light': '#fdfdfd',
-              'brand-gray': '#f5f5f5',
-            }
-          }
-        }
-      }
-    </script>
+    {{ $styles := resources.Get "css/main.css" | resources.PostCSS }}
+    {{ if hugo.IsProduction }}
+      {{ $styles = $styles | minify | fingerprint }}
+    {{ end }}
+    <link rel="stylesheet" href="{{ $styles.RelPermalink }}" {{ if hugo.IsProduction }}integrity="{{ $styles.Data.Integrity }}"{{ end }}>
     
-    <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://cdn.tailwindcss.com/3.4.1?plugins=typography"></script>
-    
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <script defer src="{{ "/js/alpine.min.js" | relURL }}"></script>
 </head>
 <body class="bg-brand-light text-brand-dark font-sans">
 
