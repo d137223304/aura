@@ -13,7 +13,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_T_img6_ac4d59eb-2977-42cb-9bfa-fa5a3e49fe0d.jpg?v=1749090178
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_T_img7_b1520c7c-f741-4fdd-892a-a20456f721c9.jpg?v=1749090178
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_T_img8_87f4f005-0fa1-4156-ab67-5f8ba079df1a.jpg?v=1749090178
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFRlc3N1dG8maHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9UX2ltZzFfMzg0Zjk4ZDctOTcwNy00NDczLTkzNGEtOTAwMjdlZTg0ODc5LmpwZz92PTE3NDkwOTAxNzg=
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFRlc3N1dG8maHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9UX2ltZzFfMzg0Zjk4ZDctOTcwNy00NDczLTkzNGEtOTAwMjdlZTg0ODc5LmpwZz92PTE3NDkwOTAxNzg=
 color: Beige
 material: Fabric
 measurements: 'Weight : 700 g   H . 41 cm x W . 44 cm x D . 13 cm'

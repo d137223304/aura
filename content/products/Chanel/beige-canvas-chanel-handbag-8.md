@@ -8,7 +8,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img1_34e1885e-f3c4-4233-8313-001619abad3d.jpg?v=1749062256
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img2_1dbf37ae-2e41-4c94-94aa-37a11c6d0dce.jpg?v=1749062256
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img3_250fedc3-e105-4086-89fd-a387ac9fbaf5.jpg?v=1749062256
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzM0ZTE4ODVlLWYzYzQtNDIzMy04MzEzLTAwMTYxOWFiYWQzZC5qcGc/dj0xNzQ5MDYyMjU2
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzM0ZTE4ODVlLWYzYzQtNDIzMy04MzEzLTAwMTYxOWFiYWQzZC5qcGc/dj0xNzQ5MDYyMjU2
 color: Beige
 material: Canvas
 measurements: 'Handle Drop: 406 mm. Length: 712 mm. Width: 304 mm. Height: 425 mm'

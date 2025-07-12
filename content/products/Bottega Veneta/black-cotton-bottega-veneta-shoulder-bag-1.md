@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Cotton_Bottega_img8.jpg?v=1749021398
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Cotton_Bottega_img9.jpg?v=1749021398
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Cotton_Bottega_img10.jpg?v=1749021398
-buynow_link: /checkout/NTUwLjAmQmxhY2sgQ290dG9uIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ290dG9uX0JvdHRlZ2FfaW1nMV84NjcwZjE1OC02NDZiLTQ0ZTAtYWVhZi1jNjk3YTkzZGI4YWYuanBnP3Y9MTc0OTAyMTM5OA==
+buynow_link: /checkout/#NTUwLjAmQmxhY2sgQ290dG9uIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ290dG9uX0JvdHRlZ2FfaW1nMV84NjcwZjE1OC02NDZiLTQ0ZTAtYWVhZi1jNjk3YTkzZGI4YWYuanBnP3Y9MTc0OTAyMTM5OA==
 color: Black
 material: Cotton
 measurements: W30cm x H16cm x D6cm

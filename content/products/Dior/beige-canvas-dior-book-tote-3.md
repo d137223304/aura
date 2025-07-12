@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img8_e8f0e43a-a3f1-4d81-9bcb-3318073f7f3c.jpg?v=1749015632
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img9_ac7f7173-9a0a-4362-9197-cdd9a72da721.jpg?v=1749015632
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img10_ae9dbdd0-ebdf-4644-b936-d6094b986bef.jpg?v=1749015632
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfZjQyNGEyYjMtNGJjMy00YmY0LTg4YTQtY2IzMGNlNzY0MTE2LmpwZz92PTE3NDkwMTU2MzI=
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfZjQyNGEyYjMtNGJjMy00YmY0LTg4YTQtY2IzMGNlNzY0MTE2LmpwZz92PTE3NDkwMTU2MzI=
 color: Beige
 material: Canvas
 measurements: 18cm x 13cm x 5cm

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img8_94c3e4b4-6229-47a3-a851-0d0fda9a4c1f.jpg?v=1749077781
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img9_2b821fec-55bd-4338-9e6c-c32868a78c87.jpg?v=1749077781
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img10_4c2c6a4b-9204-44b6-864f-178274150a2a.jpg?v=1749077781
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzQ5NGMzY2E0LTc1N2QtNDY3OS05ODg5LWY1ZmM4NWJlNTg2YS5qcGc/dj0xNzQ5MDc3Nzgx
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzQ5NGMzY2E0LTc1N2QtNDY3OS05ODg5LWY1ZmM4NWJlNTg2YS5qcGc/dj0xNzQ5MDc3Nzgx
 color: Beige
 material: Canvas
 item_number: 64a2115f90f7124cf27a7fcc

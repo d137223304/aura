@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img1_8819f507-b140-4a6b-b6a0-317573c975fd.jpg?v=1749022070
-buynow_link: /checkout/NjUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIEJlbHQgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ib3R0ZWdhX3ZlbmV0YV9CbGFja19DYW52YXNfQm90dGVnYV9pbWcxXzg4MTlmNTA3LWIxNDAtNGE2Yi1iNmEwLTMxNzU3M2M5NzVmZC5qcGc/dj0xNzQ5MDIyMDcw
+buynow_link: /checkout/#NjUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIEJlbHQgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ib3R0ZWdhX3ZlbmV0YV9CbGFja19DYW52YXNfQm90dGVnYV9pbWcxXzg4MTlmNTA3LWIxNDAtNGE2Yi1iNmEwLTMxNzU3M2M5NzVmZC5qcGc/dj0xNzQ5MDIyMDcw
 color: Black
 material: Canvas
 measurements: 'w: 13, l: 23, d: 20'

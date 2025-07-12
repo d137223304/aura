@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_H_img8_af1cb24b-13f4-4f0b-a4f2-0cff0eb9ccc7.jpg?v=1749036455
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_H_img9_78b9e56b-43a8-4da9-9875-c48731347e8e.jpg?v=1749036455
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_H_img10_1b7dcb00-e438-457d-9f3a-fcb1b59528f3.jpg?v=1749036455
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIEZlbmRpIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2ZlbmRpX0JlaWdlX0NhbnZhc19GZW5kaV9IX2ltZzFfZmYwMTAxNGUtNzUyNi00YjIxLWJkYWQtM2VjMjkzMDMyZmU2LmpwZz92PTE3NDkwMzY0NTU=
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIEZlbmRpIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2ZlbmRpX0JlaWdlX0NhbnZhc19GZW5kaV9IX2ltZzFfZmYwMTAxNGUtNzUyNi00YjIxLWJkYWQtM2VjMjkzMDMyZmU2LmpwZz92PTE3NDkwMzY0NTU=
 color: Beige
 material: Canvas
 measurements: 'Length: 12.00 x Width: 25.00 x Depth: 8.00'

@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img1_3ad15acc-9a30-4f42-88b2-a1f94f287f3e.jpg?v=1749011246
-buynow_link: /checkout/NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIEdpYW50Jmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX0xlYXRoZXJfQmFsZW5jX2ltZzFfM2FkMTVhY2MtOWEzMC00ZjQyLTg4YjItYTFmOTRmMjg3ZjNlLmpwZz92PTE3NDkwMTEyNDY=
+buynow_link: /checkout/#NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIEdpYW50Jmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX0xlYXRoZXJfQmFsZW5jX2ltZzFfM2FkMTVhY2MtOWEzMC00ZjQyLTg4YjItYTFmOTRmMjg3ZjNlLmpwZz92PTE3NDkwMTEyNDY=
 color: Green
 material: Leather
 measurements: 'w: 13.5, l: 38, d: 23.5'

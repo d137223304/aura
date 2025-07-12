@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img8_e964561a-8abc-4e4c-a10b-321e4aceadcc.jpg?v=1749091181
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img9_ab22548c-bf37-4a2c-aee1-ae12dc2ca4d4.jpg?v=1749091181
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img10_3e5c875b-0863-4cf6-b674-696b45a0cee0.jpg?v=1749091181
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX1NfaW1nMV81YzIxMjU2My05ODI3LTQwMTEtYTRhMS00ZmZiNWExNWNkZjguanBnP3Y9MTc0OTA5MTE4MQ==
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX1NfaW1nMV81YzIxMjU2My05ODI3LTQwMTEtYTRhMS00ZmZiNWExNWNkZjguanBnP3Y9MTc0OTA5MTE4MQ==
 color: Beige
 material: Fabric
 item_number: 666afa3a4d132c6e91534989

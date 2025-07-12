@@ -13,7 +13,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img6_e4c1a15a-38f6-42f2-8871-9e5355fec3d0.jpg?v=1749021829
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img7_f9544fab-c68e-42ba-9aa1-de63812cab35.jpg?v=1749021829
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img8_0b99a68d-814f-4ab5-968d-d3ee93e53747.jpg?v=1749021829
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBQb3VjaGVzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ib3R0ZWdhX3ZlbmV0YV9CZWlnZV9MZWF0aGVyX0JvdHRlZ19pbWcxXzNhZGIwYzQ4LTNiYTYtNDQ1OC04MmE2LWVlMDM1NGQ4MzJkYS5qcGc/dj0xNzQ5MDIxODI5
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBQb3VjaGVzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ib3R0ZWdhX3ZlbmV0YV9CZWlnZV9MZWF0aGVyX0JvdHRlZ19pbWcxXzNhZGIwYzQ4LTNiYTYtNDQ1OC04MmE2LWVlMDM1NGQ4MzJkYS5qcGc/dj0xNzQ5MDIxODI5
 color: Beige
 material: Leather
 item_number: 679bca6f283cd00e90eacca3

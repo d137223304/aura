@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img8_51b92877-5a1e-4824-a0d9-eb2c1857293d.jpg?v=1749091946
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img9_4ba49ce1-f72d-40ea-9624-b5a0f05c9cf8.jpg?v=1749091946
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_H_img10_e1176e93-b055-4713-9c63-94cf5843f61e.jpg?v=1749091946
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9IX2ltZzFfODMyMzNiM2QtNTg1My00YTM3LWI0NDQtODc4ZWJlNzNjZTI4LmpwZz92PTE3NDkwOTE5NDY=
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEhhbmRiYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0NhbnZhc19QcmFkYV9IX2ltZzFfODMyMzNiM2QtNTg1My00YTM3LWI0NDQtODc4ZWJlNzNjZTI4LmpwZz92PTE3NDkwOTE5NDY=
 color: Beige
 material: Canvas
 measurements: W20cm x H20cm x D8cm

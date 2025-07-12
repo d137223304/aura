@@ -9,7 +9,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img2_a0e50da4-12b4-415e-89ad-35efeff01278.jpg?v=1749022358
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img3_5d1a6020-f389-4e54-b9e7-c71f5295f5e8.jpg?v=1749022358
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img4_e90b5a5d-7496-4a21-8364-c45cdfe619d5.jpg?v=1749022358
-buynow_link: /checkout/ODAwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFBvdWNoZXMmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JsYWNrX0NhbnZhc19Cb3R0ZWdhX2ltZzFfNDZmZDMzOGYtNzc4MS00YmMwLWIwMjQtZjViNTI2MjBiYmY5LmpwZz92PTE3NDkwMjIzNTg=
+buynow_link: /checkout/#ODAwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFBvdWNoZXMmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JsYWNrX0NhbnZhc19Cb3R0ZWdhX2ltZzFfNDZmZDMzOGYtNzc4MS00YmMwLWIwMjQtZjViNTI2MjBiYmY5LmpwZz92PTE3NDkwMjIzNTg=
 color: Black
 material: Canvas
 measurements: L 12.5cm x W 22cm x D 6cm

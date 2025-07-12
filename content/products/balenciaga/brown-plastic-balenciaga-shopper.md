@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Brown_Plastic_Balenc_img8.jpg?v=1749013042
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Brown_Plastic_Balenc_img9.jpg?v=1749013042
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Brown_Plastic_Balenc_img10.jpg?v=1749013042
-buynow_link: /checkout/NjUwLjAmQnJvd24gUGxhc3RpYyBCYWxlbmNpYWdhIFNob3BwZXImaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JhbGVuY2lhZ2FfQnJvd25fUGxhc3RpY19CYWxlbmNfaW1nMS5qcGc/dj0xNzQ5MDEzMDQy
+buynow_link: /checkout/#NjUwLjAmQnJvd24gUGxhc3RpYyBCYWxlbmNpYWdhIFNob3BwZXImaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JhbGVuY2lhZ2FfQnJvd25fUGxhc3RpY19CYWxlbmNfaW1nMS5qcGc/dj0xNzQ5MDEzMDQy
 color: Brown
 material: Plastic
 measurements: 26cm x 35cm x 12cm / 10.23'' x 13.77'' x 4.72''"

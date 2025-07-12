@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img4_4cb7939d-9aa8-4205-9b5b-0ad50ee2bc8d.jpg?v=1749020946
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img5_05bb2100-4cec-4127-a9a8-6d9b22326622.jpg?v=1749020946
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img6_e3fca09d-c037-491d-bf9c-420c49e9366b.jpg?v=1749020946
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ib3R0ZWdhX3ZlbmV0YV9CZWlnZV9MZWF0aGVyX0JvdHRlZ19pbWcxXzMyZGY4MGRlLTk4NTgtNDUwNi04N2YxLWY3ZjZjNDMzYWI3YS5qcGc/dj0xNzQ5MDIwOTQ2
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ib3R0ZWdhX3ZlbmV0YV9CZWlnZV9MZWF0aGVyX0JvdHRlZ19pbWcxXzMyZGY4MGRlLTk4NTgtNDUwNi04N2YxLWY3ZjZjNDMzYWI3YS5qcGc/dj0xNzQ5MDIwOTQ2
 color: Beige
 material: Leather
 measurements: 'Handle Drop: 130 mm. Length: 340 mm. Width: 150 mm. Height: 220 mm'

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_T_img8.jpg?v=1749089216
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_T_img9.jpg?v=1749089216
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_T_img10.jpg?v=1749089216
-buynow_link: /checkout/NDUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFRlc3N1dG8maHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9UX2ltZzEuanBnP3Y9MTc0OTA4OTIxNg==
+buynow_link: /checkout/#NDUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFRlc3N1dG8maHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL3ByYWRhX0JlaWdlX0ZhYnJpY19QcmFkYV9UX2ltZzEuanBnP3Y9MTc0OTA4OTIxNg==
 color: Beige
 material: Fabric
 measurements: W24cm x H23cm x D12cm / Shoulder Drop:35cm

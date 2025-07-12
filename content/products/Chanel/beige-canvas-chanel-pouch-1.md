@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img1_49a2cc57-0e2a-4149-b72c-e637aebb2552.jpg?v=1749072496
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBQb3VjaCZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvY2hhbmVsX0JlaWdlX0NhbnZhc19DaGFuZWxfaW1nMV80OWEyY2M1Ny0wZTJhLTQxNDktYjcyYy1lNjM3YWViYjI1NTIuanBnP3Y9MTc0OTA3MjQ5Ng==
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBQb3VjaCZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvY2hhbmVsX0JlaWdlX0NhbnZhc19DaGFuZWxfaW1nMV80OWEyY2M1Ny0wZTJhLTQxNDktYjcyYy1lNjM3YWViYjI1NTIuanBnP3Y9MTc0OTA3MjQ5Ng==
 color: Beige
 material: Canvas
 measurements: 'Depth : 2 Height : 14 Length : 32'

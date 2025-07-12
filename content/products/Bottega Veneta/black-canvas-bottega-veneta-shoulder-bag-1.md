@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img4_20961554-ea27-4244-9efa-c3df1ade4667.jpg?v=1749022457
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img5_f5f8785d-6823-4583-a117-9d651d09aa2f.jpg?v=1749022457
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img6_61d2059a-0801-48e7-af07-931828720267.jpg?v=1749022457
-buynow_link: /checkout/NTUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ2FudmFzX0JvdHRlZ2FfaW1nMV9hMzhmYWQ2MC03M2IxLTQ1ODItOTU2Ny1mNWJmMWQ5ZjQzY2EuanBnP3Y9MTc0OTAyMjQ1Nw==
+buynow_link: /checkout/#NTUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ2FudmFzX0JvdHRlZ2FfaW1nMV9hMzhmYWQ2MC03M2IxLTQ1ODItOTU2Ny1mNWJmMWQ5ZjQzY2EuanBnP3Y9MTc0OTAyMjQ1Nw==
 color: Black
 material: Canvas
 measurements: 'BAG HEIGHT: 7 inches - 17.78 cm BAG LENGTH: 11.5 inches - 29.21 cm

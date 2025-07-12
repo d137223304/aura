@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img1_05babbd4-4d64-4ec5-9109-a19c59115d86.jpg?v=1749009142
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ndWNjaV9CZWlnZV9DYW52YXNfR3VjY2lfQl9pbWcxXzA1YmFiYmQ0LTRkNjQtNGVjNS05MTA5LWExOWM1OTExNWQ4Ni5qcGc/dj0xNzQ5MDA5MTQy
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ndWNjaV9CZWlnZV9DYW52YXNfR3VjY2lfQl9pbWcxXzA1YmFiYmQ0LTRkNjQtNGVjNS05MTA5LWExOWM1OTExNWQ4Ni5qcGc/dj0xNzQ5MDA5MTQy
 color: Beige
 material: Canvas
 measurements: 'w: 13, l: 32, d: 45'

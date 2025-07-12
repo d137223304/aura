@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img4_054f1514-df4c-44bb-809e-989ebe7e4275.jpg?v=1749019090
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img5_b90ce971-5a1c-4063-9b44-b19b2ac7c89f.jpg?v=1749019090
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img6_8a54dd49-3090-472f-84b3-7d2f8edb6f1f.jpg?v=1749019090
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfODFhNDZlNTItODZlNy00Zjk2LWIwMTAtNDcyN2UzMTY5ZTdhLmpwZz92PTE3NDkwMTkwOTA=
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfODFhNDZlNTItODZlNy00Zjk2LWIwMTAtNDcyN2UzMTY5ZTdhLmpwZz92PTE3NDkwMTkwOTA=
 color: Beige
 material: Canvas
 measurements: 'Handle Drop: 310 mm. Length: 270 mm. Width: 130 mm. Height: 220 mm'

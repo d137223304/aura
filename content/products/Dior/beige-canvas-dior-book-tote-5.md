@@ -6,7 +6,7 @@ price: 800.0
 original_price: 1120.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Bo_img1_5ed3a1c9-e66a-466b-babf-5cc40ea144ef.jpg?v=1749016302
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfNWVkM2ExYzktZTY2YS00NjZiLWJhYmYtNWNjNDBlYTE0NGVmLmpwZz92PTE3NDkwMTYzMDI=
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQm9vayBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9kaW9yX0JlaWdlX0NhbnZhc19EaW9yX0JvX2ltZzFfNWVkM2ExYzktZTY2YS00NjZiLWJhYmYtNWNjNDBlYTE0NGVmLmpwZz92PTE3NDkwMTYzMDI=
 color: Beige, Burgundy
 material: Canvas
 measurements: 'w: 18, l: 42, d: 35'

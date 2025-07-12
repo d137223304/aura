@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img8_ad1e6d2e-f53e-44e8-ae40-9be2fa069151.jpg?v=1749073472
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img9_e3c89fd7-9f3e-44ab-9254-56baa9303ec2.jpg?v=1749073472
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img10_b73744cd-9058-498a-bcb5-8cc9e2a444b0.jpg?v=1749073472
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzE1Nzc0MTVkLTJmZWMtNGU2Zi1iMWRlLTM1NWQyNmYzZDI5Yy5qcGc/dj0xNzQ5MDczNDcy
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzE1Nzc0MTVkLTJmZWMtNGU2Zi1iMWRlLTM1NWQyNmYzZDI5Yy5qcGc/dj0xNzQ5MDczNDcy
 color: Beige
 material: Canvas
 measurements: 'W42cmxH46cm     Shoulder longest: 125cm'

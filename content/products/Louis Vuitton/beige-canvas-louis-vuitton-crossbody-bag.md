@@ -9,7 +9,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img2_54b58d34-e66e-4ca6-8680-b64b2aba4672.jpg?v=1748967647
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img3_3bfd82fd-e747-450f-91d4-7031728ad487.jpg?v=1748967647
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img4_ce0352c1-8c04-4011-b011-abe3d8d9c80f.jpg?v=1748967647
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gQ3Jvc3Nib2R5IEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzkxZDRkMTQ4LWU0NDctNDcwYy04OTFiLWRiZGJlYWY1ZWE2MC5qcGc/dj0xNzQ4OTY3NjQ3
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gQ3Jvc3Nib2R5IEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzkxZDRkMTQ4LWU0NDctNDcwYy04OTFiLWRiZGJlYWY1ZWE2MC5qcGc/dj0xNzQ4OTY3NjQ3
 color: Beige, Grey
 material: Canvas
 measurements: 'Shoulder strap : 108Depth : 9Height : 15Length : 24'

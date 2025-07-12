@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_G_img8.jpg?v=1749089668
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_G_img9.jpg?v=1749089668
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_G_img10.jpg?v=1749089668
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIEdhbGxlcmlhIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX0dfaW1nMS5qcGc/dj0xNzQ5MDg5NjY4
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgRmFicmljIFByYWRhIEdhbGxlcmlhIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX0dfaW1nMS5qcGc/dj0xNzQ5MDg5NjY4
 color: Beige
 material: Fabric
 measurements: 16.5cm x29cm x12cm/6.5 x11.4 x4.7W29cmxH16.5cmxD12cm/W11.4xH6.5xD4.7inch

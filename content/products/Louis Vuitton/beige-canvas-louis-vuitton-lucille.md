@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img8_05b8aa2c-ae29-4db8-a840-40b11aad3d63.jpg?v=1748930852
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img9_0349a710-a976-4b33-9616-881072f6283a.jpg?v=1748930852
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img10_842246b2-c829-47b8-920c-c3d6d154fb8b.jpg?v=1748930852
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gTHVjaWxsZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzMwZTUyODI3LThmNTYtNDdmMS1iYTVlLTJkZGNhMDM2NmZjOC5qcGc/dj0xNzQ4OTMwODUy
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gTHVjaWxsZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzMwZTUyODI3LThmNTYtNDdmMS1iYTVlLTJkZGNhMDM2NmZjOC5qcGc/dj0xNzQ4OTMwODUy
 color: Beige
 material: Canvas
 measurements: 19cm x 29cm x 8cm

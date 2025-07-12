@@ -6,7 +6,7 @@ price: 800.0
 original_price: 1120.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img1.jpg?v=1749014251
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxLmpwZz92PTE3NDkwMTQyNTE=
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxLmpwZz92PTE3NDkwMTQyNTE=
 color: Beige
 material: Canvas
 item_number: 680a82577620d4161e022ef0

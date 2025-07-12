@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img8_3527e51c-a4e9-4b5c-ae5e-40dda5352f10.jpg?v=1749064503
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img9_a634c1a5-7394-4dbe-bb4a-0bbb69d5c778.jpg?v=1749064503
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img10_fefaeae2-096b-4112-9420-db5938fe12f1.jpg?v=1749064503
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBUaW1lbGVzcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvY2hhbmVsX0JlaWdlX0NhbnZhc19DaGFuZWxfaW1nMV9mZmFlNTA2My0wNDNhLTQyOGUtYWFlOS04ZDc2MmM3MzExOTAuanBnP3Y9MTc0OTA2NDUwMg==
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBUaW1lbGVzcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvY2hhbmVsX0JlaWdlX0NhbnZhc19DaGFuZWxfaW1nMV9mZmFlNTA2My0wNDNhLTQyOGUtYWFlOS04ZDc2MmM3MzExOTAuanBnP3Y9MTc0OTA2NDUwMg==
 color: Beige
 material: Canvas
 measurements: W 25cm H 15cm D 6cm H 32cm L 58cm

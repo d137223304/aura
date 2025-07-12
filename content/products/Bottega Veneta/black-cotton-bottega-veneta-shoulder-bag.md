@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Cotton_Bottega_img4.jpg?v=1749020343
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Cotton_Bottega_img5.jpg?v=1749020343
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Cotton_Bottega_img6.jpg?v=1749020344
-buynow_link: /checkout/NjUwLjAmQmxhY2sgQ290dG9uIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ290dG9uX0JvdHRlZ2FfaW1nMS5qcGc/dj0xNzQ5MDIwMzQz
+buynow_link: /checkout/#NjUwLjAmQmxhY2sgQ290dG9uIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ290dG9uX0JvdHRlZ2FfaW1nMS5qcGc/dj0xNzQ5MDIwMzQz
 color: Black
 material: Cotton
 measurements: 'Length: 292 mm. Width: 89 mm. Height: 178 mm'

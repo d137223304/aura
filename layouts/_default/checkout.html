@@ -1,0 +1,128 @@
+{{ define "main" }}
+<section class="bg-white py-8 antialiased dark:bg-gray-900 md:py-16">
+  <div class="mx-auto max-w-screen-xl px-4 2xl:px-0">
+    <h2 class="text-xl font-semibold text-gray-900 dark:text-white sm:text-2xl">Checkout</h2>
+
+    <div class="mt-6 sm:mt-8 md:gap-6 lg:flex lg:items-start xl:gap-8">
+      
+      <div class="mx-auto w-full flex-none lg:max-w-2xl xl:max-w-4xl">
+        <div class="space-y-6">
+          <div class="space-y-4 rounded-lg border border-gray-200 bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-gray-800 sm:p-6">
+            <p class="text-xl font-semibold text-gray-900 dark:text-white">Contact & Shipping</p>
+            <form id="shipping-form" class="grid grid-cols-1 gap-4 sm:grid-cols-2">
+              <div>
+                <label for="full-name" class="mb-2 block text-sm font-medium text-gray-900 dark:text-white"> Full Name </label>
+                <input type="text" id="full-name" class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500" placeholder="Jules Verne" required />
+              </div>
+              <div>
+                <label for="email" class="mb-2 block text-sm font-medium text-gray-900 dark:text-white"> Email Address </label>
+                <input type="email" id="email" class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500" placeholder="name@company.com" required />
+              </div>
+              <div class="sm:col-span-2">
+                <label for="address" class="mb-2 block text-sm font-medium text-gray-900 dark:text-white"> Street Address </label>
+                <input type="text" id="address" class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500" placeholder="123 Main St" required />
+              </div>
+              <div>
+                <label for="city" class="mb-2 block text-sm font-medium text-gray-900 dark:text-white"> City </label>
+                <input type="text" id="city" class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500" placeholder="San Francisco" required />
+              </div>
+              <div>
+                <label for="postal-code" class="mb-2 block text-sm font-medium text-gray-900 dark:text-white"> ZIP/Postal code </label>
+                <input type="text" id="postal-code" class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500" placeholder="94103" required />
+              </div>
+              <div>
+                <label for="country-code" class="mb-2 block text-sm font-medium text-gray-900 dark:text-white"> Country Code </label>
+                <input type="text" id="country-code" class="block w-full rounded-lg border border-gray-300 bg-gray-50 p-2.5 text-sm text-gray-900 focus:border-primary-500 focus:ring-primary-500" placeholder="US" required />
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+
+      <div class="mx-auto mt-6 w-full flex-none lg:mt-0 lg:max-w-sm">
+        <div class="space-y-4 rounded-lg border border-gray-200 bg-white p-4 shadow-sm dark:border-gray-700 dark:bg-gray-800 sm:p-6">
+          <p class="text-xl font-semibold text-gray-900 dark:text-white">Order summary</p>
+          <div class="flex items-center space-x-4">
+              <img id="product-image" src="" alt="Product Image" class="w-20 h-20 object-cover rounded-md border">
+              <div>
+                  <h3 id="product-title" class="font-semibold leading-tight text-gray-900 dark:text-white"></h3>
+                  <p id="product-price" class="text-lg font-bold text-gray-900 dark:text-white"></p>
+              </div>
+          </div>
+          <div class="space-y-4 border-t border-gray-200 pt-4 dark:border-gray-700">
+            <div class="flex items-center justify-between gap-4">
+              <p class="text-base font-normal text-gray-500 dark:text-gray-400">Subtotal</p>
+              <p id="subtotal-price" class="text-base font-medium text-gray-900 dark:text-white"></p>
+            </div>
+            <div class="flex items-center justify-between gap-4">
+              <p class="text-base font-normal text-gray-500 dark:text-gray-400">Shipping</p>
+              <p class="text-base font-medium text-gray-900 dark:text-white">FREE</p>
+            </div>
+          </div>
+          <div class="flex items-center justify-between gap-4 border-t border-gray-200 pt-4 dark:border-gray-700">
+            <p class="text-base font-bold text-gray-900 dark:text-white">Total</p>
+            <p id="total-price" class="text-base font-bold text-gray-900 dark:text-white"></p>
+          </div>
+          <div id="paypal-button-container" class="w-full pt-4"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script src="https://www.paypal.com/sdk/js?client-id=YOUR_PAYPAL_CLIENT_ID&currency=USD"></script>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const encodedData = window.location.hash.substring(1);
+        if (!encodedData) { return; }
+        try {
+            const decodedString = atob(encodedData);
+            const [price, title, imageUrl] = decodedString.split('&');
+            const numericPrice = parseFloat(price).toFixed(2);
+            document.getElementById('product-title').innerText = title;
+            document.getElementById('product-price').innerText = `$${numericPrice}`;
+            document.getElementById('subtotal-price').innerText = `$${numericPrice}`;
+            document.getElementById('total-price').innerText = `$${numericPrice}`;
+            document.getElementById('product-image').src = imageUrl;
+
+            paypal.Buttons({
+                createOrder: function(data, actions) {
+                    const form = document.getElementById('shipping-form');
+                    if (!form.checkValidity()) {
+                        alert("Please fill out all required shipping and contact information.");
+                        return;
+                    }
+                    const fullName = document.getElementById('full-name').value;
+                    const address = document.getElementById('address').value;
+                    const city = document.getElementById('city').value;
+                    const postalCode = document.getElementById('postal-code').value;
+                    const countryCode = document.getElementById('country-code').value;
+                    
+                    return actions.order.create({
+                        purchase_units: [{
+                            amount: { value: numericPrice },
+                            shipping: {
+                                name: { full_name: fullName },
+                                address: {
+                                    address_line_1: address,
+                                    admin_area_2: city,
+                                    postal_code: postalCode,
+                                    country_code: countryCode
+                                }
+                            }
+                        }]
+                    });
+                },
+                onApprove: function(data, actions) {
+                    return actions.order.capture().then(function(details) {
+                        window.location.href = '/thank-you/';
+                    });
+                }
+            }).render('#paypal-button-container');
+
+        } catch (e) {
+            console.error("Checkout Error:", e);
+        }
+    });
+</script>
+{{ end }}

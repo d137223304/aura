@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img4_9de99644-c2bb-4447-b180-486d133d9755.jpg?v=1751842928
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img5_90e64e95-f54f-41d1-9be9-0629f82c25c4.jpg?v=1751842928
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img6_f885704a-ea33-4cb6-af9f-73256b6db522.jpg?v=1751842928
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ndWNjaV9CZWlnZV9DYW52YXNfR3VjY2lfQl9pbWcxXzk2NTdhMmM0LWY0NDAtNGY0OC04NTg5LWU0ZWJhMDFjZjIxOS5qcGc/dj0xNzUxODQyOTI4
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ndWNjaV9CZWlnZV9DYW52YXNfR3VjY2lfQl9pbWcxXzk2NTdhMmM0LWY0NDAtNGY0OC04NTg5LWU0ZWJhMDFjZjIxOS5qcGc/dj0xNzUxODQyOTI4
 color: Beige
 material: Canvas
 measurements: 'Length: 340 mm. Width: 120 mm. Height: 450 mm'

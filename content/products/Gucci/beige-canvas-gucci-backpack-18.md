@@ -6,7 +6,7 @@ price: 550.0
 original_price: 770.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/gucci_Beige_Canvas_Gucci_B_img1_78e6f047-5c34-4bbd-ae92-f178d7b9c620.jpg?v=1749000996
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ndWNjaV9CZWlnZV9DYW52YXNfR3VjY2lfQl9pbWcxXzc4ZTZmMDQ3LTVjMzQtNGJiZC1hZTkyLWYxNzhkN2I5YzYyMC5qcGc/dj0xNzQ5MDAwOTk2
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIEd1Y2NpIEJhY2twYWNrJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9ndWNjaV9CZWlnZV9DYW52YXNfR3VjY2lfQl9pbWcxXzc4ZTZmMDQ3LTVjMzQtNGJiZC1hZTkyLWYxNzhkN2I5YzYyMC5qcGc/dj0xNzQ5MDAwOTk2
 color: Beige, Yellow
 material: Canvas
 measurements: 'l: 38, d: 45'

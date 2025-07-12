@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img8.jpg?v=1749016678
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img9.jpg?v=1749016678
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Ha_img10.jpg?v=1749016678
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxX2FkZjVjNDU3LTdjZDctNDI5MC1iODMxLWUwZTM1NTU2OWZiMC5qcGc/dj0xNzQ5MDE2Njc4
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgSGFuZGJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9IYV9pbWcxX2FkZjVjNDU3LTdjZDctNDI5MC1iODMxLWUwZTM1NTU2OWZiMC5qcGc/dj0xNzQ5MDE2Njc4
 color: Beige, Navy
 material: Canvas
 measurements: 'Handle Drop : 19Depth : 7.5Height : 31Length : 26'

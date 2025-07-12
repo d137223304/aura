@@ -12,7 +12,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img5_81472872-6709-4773-bcd0-9dc3e75669cb.jpg?v=1749030172
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img6_dc3b93df-fcf7-4049-953f-ebf3b18d4a80.jpg?v=1749030172
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img7_f9e90b8e-599c-45b6-b022-921d2b3c2bc5.jpg?v=1749030172
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxXzJkMDg5NTExLTdkYTUtNGZhZS05MjViLWNlZmFlZDJjMmYzZS5qcGc/dj0xNzQ5MDMwMTcx
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxXzJkMDg5NTExLTdkYTUtNGZhZS05MjViLWNlZmFlZDJjMmYzZS5qcGc/dj0xNzQ5MDMwMTcx
 color: Beige
 material: Canvas
 measurements: '20 Depth : 12.5 Height : 31 Length : 36'

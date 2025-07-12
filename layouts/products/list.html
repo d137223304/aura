@@ -17,7 +17,11 @@
         {{/* 1. Collect 6 random products from each brand. */}}
         {{ $showcaseProducts := slice }}
         {{ $brands := .Site.GetPage "section" "products" }}
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> a41d37e2b1b10f0b2b46c1c2db96f2581e12f5bd
         {{ range $brands.Sections }}
             {{ $randomBrandProducts := .Pages | shuffle | first 6 }}
             {{ $showcaseProducts = $showcaseProducts | append $randomBrandProducts }}
@@ -31,7 +35,11 @@
                 {{ partial "product-card.html" . }}
             {{ end }}
         </div>
+<<<<<<< HEAD
         
+=======
+
+>>>>>>> a41d37e2b1b10f0b2b46c1c2db96f2581e12f5bd
     {{ else }}
         {{/* This is a brand-specific page. */}}
         {{/* 1. Limit to the first 60 products for this brand. */}}

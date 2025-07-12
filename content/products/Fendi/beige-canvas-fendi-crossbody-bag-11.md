@@ -6,7 +6,7 @@ price: 548.88
 original_price: 768.43
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/fendi_Beige_Canvas_Fendi_C_img1_57435782-9dad-41f2-93aa-a8d70af1d598.jpg?v=1749039622
-buynow_link: /checkout/NTQ4Ljg4JkJlaWdlIENhbnZhcyBGZW5kaSBDcm9zc2JvZHkgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9mZW5kaV9CZWlnZV9DYW52YXNfRmVuZGlfQ19pbWcxXzU3NDM1NzgyLTlkYWQtNDFmMi05M2FhLWE4ZDcwYWYxZDU5OC5qcGc/dj0xNzQ5MDM5NjIy
+buynow_link: /checkout/#NTQ4Ljg4JkJlaWdlIENhbnZhcyBGZW5kaSBDcm9zc2JvZHkgQmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9mZW5kaV9CZWlnZV9DYW52YXNfRmVuZGlfQ19pbWcxXzU3NDM1NzgyLTlkYWQtNDFmMi05M2FhLWE4ZDcwYWYxZDU5OC5qcGc/dj0xNzQ5MDM5NjIy
 color: Beige, Pink
 material: Canvas
 measurements: 'w: 7, l: 24, d: 17'

@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img1_c2ea7044-4f61-4341-9c18-5d8095fb2d46.jpg?v=1749011249
-buynow_link: /checkout/NjUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBDYWJhcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0NhbnZhc19CYWxlbmNpYV9pbWcxX2MyZWE3MDQ0LTRmNjEtNDM0MS05YzE4LTVkODA5NWZiMmQ0Ni5qcGc/dj0xNzQ5MDExMjQ5
+buynow_link: /checkout/#NjUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBDYWJhcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0NhbnZhc19CYWxlbmNpYV9pbWcxX2MyZWE3MDQ0LTRmNjEtNDM0MS05YzE4LTVkODA5NWZiMmQ0Ni5qcGc/dj0xNzQ5MDExMjQ5
 color: Grey
 material: Canvas
 measurements: 'w: 18, l: 30, d: 24'

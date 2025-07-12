@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img4_b254a812-7434-44b5-b3f8-608ced7266d9.jpg?v=1749020439
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img5_c7d5899f-9a03-4c32-a5ce-c6bb11781bd3.jpg?v=1749020439
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img6_49b12c3c-6ee2-47eb-80d8-07b5c1ed7192.jpg?v=1749020439
-buynow_link: /checkout/NjUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JsYWNrX0NhbnZhc19Cb3R0ZWdhX2ltZzFfNDU2NDIyMDMtYTE1OC00OGM5LWI5MjYtYTA1ZjFjNDlhMTcwLmpwZz92PTE3NDkwMjA0Mzk=
+buynow_link: /checkout/#NjUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFRvdGUmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JsYWNrX0NhbnZhc19Cb3R0ZWdhX2ltZzFfNDU2NDIyMDMtYTE1OC00OGM5LWI5MjYtYTA1ZjFjNDlhMTcwLmpwZz92PTE3NDkwMjA0Mzk=
 color: Black
 material: Canvas
 measurements: 'Handle Drop: 139.7 mm. Length: 355 mm. Width: 177 mm. Height: 355 mm'

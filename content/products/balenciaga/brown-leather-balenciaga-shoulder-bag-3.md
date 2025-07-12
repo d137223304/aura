@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Brown_Leather_Balenc_img8_751c0a20-a5cd-4192-84f2-39dd2314da16.jpg?v=1749011884
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Brown_Leather_Balenc_img9_f2f50472-7dfa-4d2c-9a14-42f299c3c922.jpg?v=1749011884
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Brown_Leather_Balenc_img10_47be3436-53eb-4990-b0cf-a10373e2ffc4.jpg?v=1749011884
-buynow_link: /checkout/NjUwLjAmQnJvd24gTGVhdGhlciBCYWxlbmNpYWdhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9Ccm93bl9MZWF0aGVyX0JhbGVuY19pbWcxXzc4ZmJhZTJiLTUyOWUtNGJjZC05ZTliLWFkOGM1NGMxN2EzYy5qcGc/dj0xNzQ5MDExODg0
+buynow_link: /checkout/#NjUwLjAmQnJvd24gTGVhdGhlciBCYWxlbmNpYWdhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9Ccm93bl9MZWF0aGVyX0JhbGVuY19pbWcxXzc4ZmJhZTJiLTUyOWUtNGJjZC05ZTliLWFkOGM1NGMxN2EzYy5qcGc/dj0xNzQ5MDExODg0
 color: Brown
 material: Leather
 measurements: 26cm x 35cm x 12cm

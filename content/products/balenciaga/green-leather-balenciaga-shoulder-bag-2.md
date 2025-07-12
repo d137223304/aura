@@ -14,7 +14,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img7_bd5fc5ea-cd81-4029-9928-0e033a9b9588.jpg?v=1749010985
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img8_3ab9bc13-455e-4a18-90fe-bdb9688cd250.jpg?v=1749010985
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img9_c3923c4b-c6e5-49de-a380-ae75dd9e4d66.jpg?v=1749010985
-buynow_link: /checkout/NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9MZWF0aGVyX0JhbGVuY19pbWcxXzQ5ZmIyMjE1LWJmOTItNGYwMy04MTNhLWNkOWYxZjg2YmY5Zi5qcGc/dj0xNzQ5MDEwOTg1
+buynow_link: /checkout/#NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9MZWF0aGVyX0JhbGVuY19pbWcxXzQ5ZmIyMjE1LWJmOTItNGYwMy04MTNhLWNkOWYxZjg2YmY5Zi5qcGc/dj0xNzQ5MDEwOTg1
 color: Green
 material: Leather
 item_number: 6763cf458667f05b560c740d

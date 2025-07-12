@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img4_fc09030b-9056-45d5-b9b0-c72f56f30874.jpg?v=1749022826
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img5_5910a665-0ccb-447d-a362-b93ea757c709.jpg?v=1749022826
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Black_Canvas_Bottega_img6_caa1ce60-21da-4d0d-865a-9ea9cfd660b7.jpg?v=1749022826
-buynow_link: /checkout/NjUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ2FudmFzX0JvdHRlZ2FfaW1nMV84YzlkYmNlNy0xZmQyLTRlMDQtYTEyYS03MjA0MDU0ZWY1MjguanBnP3Y9MTc0OTAyMjgyNg==
+buynow_link: /checkout/#NjUwLjAmQmxhY2sgQ2FudmFzIEJvdHRlZ2EgVmVuZXRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmxhY2tfQ2FudmFzX0JvdHRlZ2FfaW1nMV84YzlkYmNlNy0xZmQyLTRlMDQtYTEyYS03MjA0MDU0ZWY1MjguanBnP3Y9MTc0OTAyMjgyNg==
 color: Black
 material: Canvas
 item_number: 67094e6b5b557977d906c7f1

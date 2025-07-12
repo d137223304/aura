@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Fabric_Bottega_img8_6e4c9c97-0e92-41e7-b9b3-2fc19cab929d.jpg?v=1749023266
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Fabric_Bottega_img9_9117422b-17cd-433d-9447-300db206835c.jpg?v=1749023266
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Fabric_Bottega_img10_dff304c9-c078-411c-b42e-da1852bda64b.jpg?v=1749023266
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgRmFicmljIEJvdHRlZ2EgVmVuZXRhIFBvdWNoZXMmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0ZhYnJpY19Cb3R0ZWdhX2ltZzFfZWUwOGY3NmEtYzJmOS00YzNhLTk2OGQtZDNlZjExNWRmNzQwLmpwZz92PTE3NDkwMjMyNjY=
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgRmFicmljIEJvdHRlZ2EgVmVuZXRhIFBvdWNoZXMmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0ZhYnJpY19Cb3R0ZWdhX2ltZzFfZWUwOGY3NmEtYzJmOS00YzNhLTk2OGQtZDNlZjExNWRmNzQwLmpwZz92PTE3NDkwMjMyNjY=
 color: Beige
 material: Fabric
 item_number: 666cccd2abaf552f306fcc88

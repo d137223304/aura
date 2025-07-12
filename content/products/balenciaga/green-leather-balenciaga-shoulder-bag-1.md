@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img8_616f828a-bcce-44be-9104-065bf4d84c5c.jpg?v=1749009838
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img9_c6ba73dd-4a22-4a34-99f0-5b00255f8a01.jpg?v=1749009838
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img10_4bab007c-d98d-4c14-9a6b-747940b512a2.jpg?v=1749009838
-buynow_link: /checkout/NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9MZWF0aGVyX0JhbGVuY19pbWcxXzhlOWZiMjU2LTY4OTMtNDBkNC1iNDg1LWVlZTU4OWFiYjM4YS5qcGc/dj0xNzQ5MDA5ODM4
+buynow_link: /checkout/#NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9MZWF0aGVyX0JhbGVuY19pbWcxXzhlOWZiMjU2LTY4OTMtNDBkNC1iNDg1LWVlZTU4OWFiYjM4YS5qcGc/dj0xNzQ5MDA5ODM4
 color: Green
 material: Leather
 measurements: 'w: 5.5, l: 19, d: 10'

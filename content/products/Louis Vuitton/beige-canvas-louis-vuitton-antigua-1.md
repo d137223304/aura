@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img4_4eec6759-9a33-4ef2-a21f-ac72f1c5aa59.jpg?v=1748921059
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img5_0a6ff4a1-fbd4-4473-a30a-df193c7045e2.jpg?v=1748921059
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/louis_vuitton_Beige_Canvas_Louis_V_img6_908d2689-de20-4967-a124-c64317f6b5d3.jpg?v=1748921059
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gQW50aWd1YSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzVmYmIyNWE3LTg3Y2UtNDdjMS1hNDY4LTQ2NTc2MmJhNTcwNC5qcGc/dj0xNzQ4OTIxMDU5
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIExvdWlzIFZ1aXR0b24gQW50aWd1YSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvbG91aXNfdnVpdHRvbl9CZWlnZV9DYW52YXNfTG91aXNfVl9pbWcxXzVmYmIyNWE3LTg3Y2UtNDdjMS1hNDY4LTQ2NTc2MmJhNTcwNC5qcGc/dj0xNzQ4OTIxMDU5
 color: Beige
 material: Canvas
 measurements: 'Handle Drop: 510 mm. Length: 285 mm. Width: 90 mm. Height: 300 mm'

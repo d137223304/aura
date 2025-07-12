@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Wool_Balenciag_img8.jpg?v=1749012471
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Wool_Balenciag_img9.jpg?v=1749012471
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Wool_Balenciag_img10.jpg?v=1749012471
-buynow_link: /checkout/NTUwLjAmR3JlZW4gV29vbCBCYWxlbmNpYWdhIENhYmFzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX1dvb2xfQmFsZW5jaWFnX2ltZzEuanBnP3Y9MTc0OTAxMjQ3MQ==
+buynow_link: /checkout/#NTUwLjAmR3JlZW4gV29vbCBCYWxlbmNpYWdhIENhYmFzJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9iYWxlbmNpYWdhX0dyZWVuX1dvb2xfQmFsZW5jaWFnX2ltZzEuanBnP3Y9MTc0OTAxMjQ3MQ==
 color: Green, Navy
 material: Wool
 measurements: H 23cm x W 30cm x D 19cm

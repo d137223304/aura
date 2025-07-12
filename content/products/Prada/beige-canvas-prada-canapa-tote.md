@@ -6,7 +6,7 @@ price: 650.0
 original_price: 910.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_C_img1.jpg?v=1749084437
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIENhbmFwYSBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9DYW52YXNfUHJhZGFfQ19pbWcxLmpwZz92PTE3NDkwODQ0Mzc=
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIENhbmFwYSBUb3RlJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9wcmFkYV9CZWlnZV9DYW52YXNfUHJhZGFfQ19pbWcxLmpwZz92PTE3NDkwODQ0Mzc=
 color: Beige
 material: Canvas
 measurements: 'w: 16.5, l: 35.5, d: 27'

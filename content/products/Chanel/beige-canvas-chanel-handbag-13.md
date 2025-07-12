@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img8_5042ee85-8140-4850-9016-70609dcd6df1.jpg?v=1749071301
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img9_c1b375e2-ce9e-456f-a098-a3d0b110bbc5.jpg?v=1749071301
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img10_d7522c43-773c-41c2-b76d-bd076485f8eb.jpg?v=1749071301
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzY2ZDIyMTA2LTExZjAtNGY4My1iN2Q2LWMyNGU1ZTU1ZWQzMS5qcGc/dj0xNzQ5MDcxMzAx
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzY2ZDIyMTA2LTExZjAtNGY4My1iN2Q2LWMyNGU1ZTU1ZWQzMS5qcGc/dj0xNzQ5MDcxMzAx
 color: Beige, Navy
 material: Canvas
 measurements: W27cm x H13cm x D5cm(Approx)

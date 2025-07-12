@@ -6,7 +6,7 @@ price: 550.0
 original_price: 770.0
 images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Leather_Botteg_img1_f4890cfb-b3dd-47bc-a3cf-008b16799153.jpg?v=1749022011
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBTaG91bGRlciBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0xlYXRoZXJfQm90dGVnX2ltZzFfZjQ4OTBjZmItYjNkZC00N2JjLWEzY2YtMDA4YjE2Nzk5MTUzLmpwZz92PTE3NDkwMjIwMTE=
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgTGVhdGhlciBCb3R0ZWdhIFZlbmV0YSBTaG91bGRlciBCYWcmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2JvdHRlZ2FfdmVuZXRhX0JlaWdlX0xlYXRoZXJfQm90dGVnX2ltZzFfZjQ4OTBjZmItYjNkZC00N2JjLWEzY2YtMDA4YjE2Nzk5MTUzLmpwZz92PTE3NDkwMjIwMTE=
 color: Beige
 material: Leather
 measurements: 'w: 7, l: 14.5, d: 13'

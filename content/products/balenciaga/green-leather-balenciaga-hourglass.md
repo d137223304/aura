@@ -11,7 +11,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img4_a9505370-34e6-40b1-b95d-fed2d3024897.jpg?v=1749010697
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img5_e503885b-3018-4c1f-9747-07e418222680.jpg?v=1749010697
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Green_Leather_Balenc_img6_e3c85e56-38dd-4c54-b770-bc077e3c307b.jpg?v=1749010697
-buynow_link: /checkout/NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIEhvdXJnbGFzcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9MZWF0aGVyX0JhbGVuY19pbWcxX2JiOTc0NDgwLTgyM2QtNDc1OS1iZDY3LTA1YTNiNGExYzhkYi5qcGc/dj0xNzQ5MDEwNjk3
+buynow_link: /checkout/#NjUwLjAmR3JlZW4gTGVhdGhlciBCYWxlbmNpYWdhIEhvdXJnbGFzcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmVlbl9MZWF0aGVyX0JhbGVuY19pbWcxX2JiOTc0NDgwLTgyM2QtNDc1OS1iZDY3LTA1YTNiNGExYzhkYi5qcGc/dj0xNzQ5MDEwNjk3
 color: Green
 material: Leather
 measurements: 'Handle Drop: 88.9 mm. Length: 190 mm. Height: 76 mm'

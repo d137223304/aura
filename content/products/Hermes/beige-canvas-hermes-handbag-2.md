@@ -13,7 +13,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img6_8733f67b-60b8-472a-a1e4-141aa860bead.jpg?v=1749034446
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img7_52577cc7-3829-45b9-b076-d51b0ff991a5.jpg?v=1749034446
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img8_54c95a1f-0c15-4d00-be2f-c6c92e842c1c.jpg?v=1749034446
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxXzFlMDE2NzRlLTgwMDUtNDljOS1iYmFiLTM1MGQzODg5MTllZC5qcGc/dj0xNzQ5MDM0NDQ2
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfQ2FudmFzX0hlcm1lc19pbWcxXzFlMDE2NzRlLTgwMDUtNDljOS1iYmFiLTM1MGQzODg5MTllZC5qcGc/dj0xNzQ5MDM0NDQ2
 color: Beige
 material: Canvas
 item_number: 659fe945685cda045bab00dc

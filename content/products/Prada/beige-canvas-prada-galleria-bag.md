@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_G_img8.jpg?v=1749084169
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_G_img9.jpg?v=1749084169
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Canvas_Prada_G_img10.jpg?v=1749084169
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEdhbGxlcmlhIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfQ2FudmFzX1ByYWRhX0dfaW1nMS5qcGc/dj0xNzQ5MDg0MTY5
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIFByYWRhIEdhbGxlcmlhIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfQ2FudmFzX1ByYWRhX0dfaW1nMS5qcGc/dj0xNzQ5MDg0MTY5
 color: Beige
 material: Canvas
 measurements: 'w: 15, l: 33.5, d: 23'

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img8_a3d2ad6f-7e8d-4296-b3c7-f0830817102b.jpg?v=1749092166
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img9_c9df4ccd-250a-4d2b-a227-1c103022b047.jpg?v=1749092166
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Leather_Prada_img10_7ddb9764-265b-4584-8b7e-12c9f3cc7a05.jpg?v=1749092166
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBDYW5hcGEgVG90ZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfTGVhdGhlcl9QcmFkYV9pbWcxXzVkODRjZTMzLWFhYzItNGU5Yi04OGNlLThjOThhZGFjNjBhYi5qcGc/dj0xNzQ5MDkyMTY1
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTGVhdGhlciBQcmFkYSBDYW5hcGEgVG90ZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfTGVhdGhlcl9QcmFkYV9pbWcxXzVkODRjZTMzLWFhYzItNGU5Yi04OGNlLThjOThhZGFjNjBhYi5qcGc/dj0xNzQ5MDkyMTY1
 color: Beige
 material: Leather
 item_number: 64e71c22aabb6d5e9a02fd83

@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Fabric_Hermes_img8_76c98ffd-6985-4ef9-b0ac-a4beb322bb70.jpg?v=1749033612
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Fabric_Hermes_img9_ec0bfd0e-2f17-455f-80dc-147c9b449606.jpg?v=1749033612
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Fabric_Hermes_img10_ac56b4e1-aee4-446e-abba-cd2b92335e9c.jpg?v=1749033612
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgRmFicmljIEhlcm1lcyBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfRmFicmljX0hlcm1lc19pbWcxXzVhZmE0NzY0LTJjY2UtNDFlNi1hMGIxLTdjYjFmOTgyYzgwMy5qcGc/dj0xNzQ5MDMzNjEy
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgRmFicmljIEhlcm1lcyBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9oZXJtZXNfQmVpZ2VfRmFicmljX0hlcm1lc19pbWcxXzVhZmE0NzY0LTJjY2UtNDFlNi1hMGIxLTdjYjFmOTgyYzgwMy5qcGc/dj0xNzQ5MDMzNjEy
 color: Beige
 material: Fabric
 item_number: 666afa824d132c6e91539a21

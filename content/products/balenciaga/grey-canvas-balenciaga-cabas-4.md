@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img8_7305e865-b79d-46f9-820d-2f6d3b8a4d0c.jpg?v=1749012271
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img9_cd660f0b-ccf2-4ae3-af42-5a61b6d194f1.jpg?v=1749012271
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/balenciaga_Grey_Canvas_Balencia_img10_3313b571-baf2-44f9-8d0a-e22675890deb.jpg?v=1749012271
-buynow_link: /checkout/NTUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBDYWJhcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0NhbnZhc19CYWxlbmNpYV9pbWcxX2M0NzczZTgwLTZlY2ItNDM4My1hOWM0LTM3NzA5NDVmZmY4Mi5qcGc/dj0xNzQ5MDEyMjcw
+buynow_link: /checkout/#NTUwLjAmR3JleSBDYW52YXMgQmFsZW5jaWFnYSBDYWJhcyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYmFsZW5jaWFnYV9HcmV5X0NhbnZhc19CYWxlbmNpYV9pbWcxX2M0NzczZTgwLTZlY2ItNDM4My1hOWM0LTM3NzA5NDVmZmY4Mi5qcGc/dj0xNzQ5MDEyMjcw
 color: Grey, Navy
 material: Canvas
 item_number: 666afa804d132c6e9153968d

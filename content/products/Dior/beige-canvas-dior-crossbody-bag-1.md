@@ -13,7 +13,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Cr_img6.jpg?v=1749016747
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Cr_img7.jpg?v=1749016747
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Cr_img8.jpg?v=1749016747
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQ3Jvc3Nib2R5IEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9Dcl9pbWcxXzU5MWZjNjY0LWZhNzgtNDM3Zi05NjkzLTk5ZDNkNmZkMmM2ZC5qcGc/dj0xNzQ5MDE2NzQ3
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQ3Jvc3Nib2R5IEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvZGlvcl9CZWlnZV9DYW52YXNfRGlvcl9Dcl9pbWcxXzU5MWZjNjY0LWZhNzgtNDM3Zi05NjkzLTk5ZDNkNmZkMmM2ZC5qcGc/dj0xNzQ5MDE2NzQ3
 color: Beige, Navy
 material: Canvas
 measurements: 'Shoulder strap : 64Depth : 5Height : 11.5Length : 17'

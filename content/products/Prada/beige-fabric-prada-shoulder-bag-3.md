@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img8_6f659d2c-55bd-474c-831c-98960ceb9c1c.jpg?v=1749092180
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img9_569ddf8a-07ac-4acf-a02b-e33deddba752.jpg?v=1749092180
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/prada_Beige_Fabric_Prada_S_img10_48a3a0f2-4da0-46d7-84cd-99c5ca974cf5.jpg?v=1749092180
-buynow_link: /checkout/NDUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX1NfaW1nMV81YzlhZjljNi0wMDkwLTQ1ODMtOWRiZi1hNDUxMDUyYjIwOGMuanBnP3Y9MTc0OTA5MjE3OQ==
+buynow_link: /checkout/#NDUwLjAmQmVpZ2UgRmFicmljIFByYWRhIFNob3VsZGVyIEJhZyZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvcHJhZGFfQmVpZ2VfRmFicmljX1ByYWRhX1NfaW1nMV81YzlhZjljNi0wMDkwLTQ1ODMtOWRiZi1hNDUxMDUyYjIwOGMuanBnP3Y9MTc0OTA5MjE3OQ==
 color: Beige
 material: Fabric
 measurements: W 37 cm x H 40 cm x D 7 cm Shoulder Drop:32 cm

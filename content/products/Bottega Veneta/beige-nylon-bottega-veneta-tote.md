@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Nylon_Bottega_img8.jpg?v=1749022367
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Nylon_Bottega_img9.jpg?v=1749022367
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/bottega_veneta_Beige_Nylon_Bottega_img10.jpg?v=1749022367
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgTnlsb24gQm90dGVnYSBWZW5ldGEgVG90ZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmVpZ2VfTnlsb25fQm90dGVnYV9pbWcxLmpwZz92PTE3NDkwMjIzNjc=
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgTnlsb24gQm90dGVnYSBWZW5ldGEgVG90ZSZodHRwczovL2Nkbi5zaG9waWZ5LmNvbS9zL2ZpbGVzLzEvMDk0MS81MjQyLzU3NTcvZmlsZXMvYm90dGVnYV92ZW5ldGFfQmVpZ2VfTnlsb25fQm90dGVnYV9pbWcxLmpwZz92PTE3NDkwMjIzNjc=
 color: Beige
 material: Nylon
 measurements: W35cm x H26cm x D9cm

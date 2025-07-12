@@ -12,7 +12,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Co_img5.jpg?v=1749016792
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Co_img6.jpg?v=1749016792
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/dior_Beige_Canvas_Dior_Co_img7.jpg?v=1749016792
-buynow_link: /checkout/NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQ29zbWV0aWMgUG91Y2gmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2Rpb3JfQmVpZ2VfQ2FudmFzX0Rpb3JfQ29faW1nMS5qcGc/dj0xNzQ5MDE2Nzky
+buynow_link: /checkout/#NjUwLjAmQmVpZ2UgQ2FudmFzIERpb3IgQ29zbWV0aWMgUG91Y2gmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2Rpb3JfQmVpZ2VfQ2FudmFzX0Rpb3JfQ29faW1nMS5qcGc/dj0xNzQ5MDE2Nzky
 color: Beige, Black
 material: Canvas
 measurements: 'Handle Drop : 5Depth : 10Height : 13Length : 21'

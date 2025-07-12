@@ -10,7 +10,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img3_a9522660-8cb1-471c-9e23-440585751e9e.jpg?v=1749029022
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img4_44a73a9e-64fe-430f-9a78-deb3f8efe8c2.jpg?v=1749029022
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/hermes_Beige_Canvas_Hermes_img5_c709fdc9-22b3-4a3d-a7f4-5e061ce4232e.jpg?v=1749029022
-buynow_link: /checkout/ODAwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBHYXJkZW4gUGFydHkmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2hlcm1lc19CZWlnZV9DYW52YXNfSGVybWVzX2ltZzFfMmFmOTMyYmYtNTgwYi00ODc3LTk1NGMtMTc0YzBkYzVjYmJlLmpwZz92PTE3NDkwMjkwMjI=
+buynow_link: /checkout/#ODAwLjAmQmVpZ2UgQ2FudmFzIEhlcm1lcyBHYXJkZW4gUGFydHkmaHR0cHM6Ly9jZG4uc2hvcGlmeS5jb20vcy9maWxlcy8xLzA5NDEvNTI0Mi81NzU3L2ZpbGVzL2hlcm1lc19CZWlnZV9DYW52YXNfSGVybWVzX2ltZzFfMmFmOTMyYmYtNTgwYi00ODc3LTk1NGMtMTc0YzBkYzVjYmJlLmpwZz92PTE3NDkwMjkwMjI=
 color: Beige
 material: Canvas
 measurements: 'Length: 300 mm. Width: 140 mm. Height: 210 mm'

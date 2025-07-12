@@ -15,7 +15,7 @@ images:
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img8_527ce92c-84ec-46da-9b79-0c423c29cad8.jpg?v=1749063874
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img9_c38db60e-886b-4c87-b665-da34b4645c7e.jpg?v=1749063874
 - https://cdn.shopify.com/s/files/1/0941/5242/5757/files/chanel_Beige_Canvas_Chanel_img10_0dac2a90-baab-4e95-96c7-fce490c2e5dc.jpg?v=1749063874
-buynow_link: /checkout/NTUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzcwOGU1NDZmLWIyZWMtNDQyNy1hMTNhLTg2MTEwZDBmZDM2My5qcGc/dj0xNzQ5MDYzODc0
+buynow_link: /checkout/#NTUwLjAmQmVpZ2UgQ2FudmFzIENoYW5lbCBIYW5kYmFnJmh0dHBzOi8vY2RuLnNob3BpZnkuY29tL3MvZmlsZXMvMS8wOTQxLzUyNDIvNTc1Ny9maWxlcy9jaGFuZWxfQmVpZ2VfQ2FudmFzX0NoYW5lbF9pbWcxXzcwOGU1NDZmLWIyZWMtNDQyNy1hMTNhLTg2MTEwZDBmZDM2My5qcGc/dj0xNzQ5MDYzODc0
 color: Beige, Grey
 material: Canvas
 measurements: 35cm x 40cm x 11.5cm
