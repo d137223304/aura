@@ -9,7 +9,7 @@
     <!-- DEBUG: Current Section is {{ .Section }} -->
     <!-- DEBUG: Current Page Title is {{ .Title }} -->
     <!-- DEBUG: Current Page Path is {{ .Path }} -->
-    <!-- DEBUG: Current Page File Path is {{ .File.Path }} -->
+    <!-- DEBUG: Current Page File Path is {{ with .File }}{{ .Path }}{{ else }}Not a file-backed page{{ end }} -->
     {{ $currentSection := .Section }}
     {{ $allProducts := where .Site.RegularPages "Section" $currentSection }}
     <!-- DEBUG: Found {{ len $allProducts }} products in section '{{ $currentSection }}' -->
